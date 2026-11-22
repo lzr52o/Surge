@@ -8,233 +8,233 @@ Surge 去广告 / 净化 / 解锁模块合集，共 305 个模块。
 
 | 模块 | 说明 | 作者 |
 | --- | --- | --- |
-| [Line去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除Line各类广告 | jkgtw |
-| [哔哩哔哩广告净化\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/bilibili-ads.sgmodule) | B站去广告净化，V2.0.138（2025-07-18） | @ddgksf2013 |
-| [BuyiTunes会员解锁\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/buyitunes.sgmodule) | BuyiTunes 多合一解锁脚本，2024-01-24 | @ddgksf2013 |
-| [App解锁合集](https://raw.githubusercontent.com/lzr52o/Surge/master/chxm-collections.sgmodule) | App 解锁合集，叮当猫 Collections.conf 转 Surge，2026-04-26 | @ddm1023 |
-| [PhotoRetouch](https://raw.githubusercontent.com/lzr52o/Surge/master/photoretouch.sgmodule) | Photo Retouch 解锁 | chxm1023 |
-| [墨鱼去开屏V2.0](https://raw.githubusercontent.com/lzr52o/Surge/master/startup-ads.sgmodule) | 400余应用去开屏广告，v2.0.648（2026-08-29） | @ddgksf2013 |
-| [TouchreTouch](https://raw.githubusercontent.com/lzr52o/Surge/master/touchretouch.sgmodule) | TouchRetouch 消除笔恢复购买，5.2.4 | WeiGiegie |
-| [解锁合集](https://raw.githubusercontent.com/lzr52o/Surge/master/unlock-collection.sgmodule) | 24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey） | 合集（NobyDa、yichahucha、Choler、Alex0510 等） |
-| [微博净化\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/weibo-enhanced.sgmodule) | 微博去广告净化，V0.1.53（2026-10-19） | @ddgksf2013 |
-| [iTunes合集By Yu9191](https://raw.githubusercontent.com/lzr52o/Surge/master/yu9191-itunes.sgmodule) | iTunes 系列解锁合集，2025-02-27 | @ios151 |
-| [Revenuecat合集By Yu9191](https://raw.githubusercontent.com/lzr52o/Surge/master/yu9191-revenuecat.sgmodule) | RevenueCat 合集，适配 10.5 及以后软件 | Yu9191 |
-| [一刻相册去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告和弹窗推广。 | 可莉🅥 |
-| [BoxJs](https://raw.githubusercontent.com/lzr52o/Surge/master/boxjs.sgmodule) | BoxJs 配置工具 | chavyleung |
-| [Reddit增强\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/reddit-ads.sgmodule) | 去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，去除NSFW遮罩，伪装Premium | @ddgksf2013 |
-| [贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/tieba-ads.sgmodule) | 开屏广告；推荐和吧内帖子列表的直播及广告；详情页直播/关联商品/广告；看图模式广告 | app2smile |
-| [1.1.1.1配置管理](https://raw.githubusercontent.com/lzr52o/Surge/master/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.sgmodule) | 提取1.1.1.1应用的配置并生成Loon可用的节点配置，点击下面署名前往配置1.1.1.1的BoxJs配置。 | VirgilClyne, I-am-R-E |
-| [12306去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤12306应用内广告及开屏广告 | RuCu6 |
-| [123云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/123%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内横幅广告。 | 可莉🅥 |
-| [360摄像机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广、底栏商城入口及我的页面推广。 | 可莉🅥 |
-| [360智慧生活去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/360%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广横幅、商城入口及我的页面推广。 | 可莉🅥 |
-| [555电影去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/555%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和各类横幅广告，支持iPadOS。 | 可莉🅥 |
-| [B612咔叽去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/B612%E5%92%94%E5%8F%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗及拍摄页面底部横幅广告。 | 可莉🅥 |
-| [CC直播去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/CC%E7%9B%B4%E6%92%AD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除信息流推广和横幅，精简顶部标签。 | 可莉🅥 |
-| [DNS防泄露](https://raw.githubusercontent.com/lzr52o/Surge/master/DNS%E9%98%B2%E6%B3%84%E9%9C%B2.sgmodule) | 专为小白设计的DNS防泄露 | 非正常人类研究中心 |
-| [DREAME去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/DREAME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页大图推广、横幅推广，精简底栏，阻止桌面图标替换。仅支持2.5.1版。 | 可莉🅥 |
-| [Dlabel云标签去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Dlabel%E4%BA%91%E6%A0%87%E7%AD%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告及首页横幅。 | 可莉🅥 |
-| [ECOVACS HOME去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/ECOVACS%20HOME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅推广，精简底栏。 | 可莉🅥 |
-| [Fileball网盘挂载](https://raw.githubusercontent.com/lzr52o/Surge/master/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.sgmodule) | 支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下方署名查看使用方法。 | 小白脸 |
-| [Foodie去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Foodie%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和弹窗广告 | 可莉🅥 |
-| [Google搜索重定向](https://raw.githubusercontent.com/lzr52o/Surge/master/Google%E6%90%9C%E7%B4%A2%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule) | 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。 | 可莉🅥 |
-| [Google搜索重定向](https://raw.githubusercontent.com/lzr52o/Surge/master/Google%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule) | 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。 | 可莉🅥 |
-| [HTTPDNS拦截器](https://raw.githubusercontent.com/lzr52o/Surge/master/HTTPDNS%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule) | 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。 | 可莉🅥, VirgilClyne |
-| [IPA工具箱助手](https://raw.githubusercontent.com/lzr52o/Surge/master/IPA%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%8A%A9%E6%89%8B.sgmodule) | 这是IPA工具箱的辅助插件，用于下载IPA包和应用降级。IPA工具箱是运行在Scripting应用中的脚本，需要购买Scripting的Pro版本才能运行。 | 小白脸 |
-| [IT之家去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/IT%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图，自定义移除项需在插件配置。 | 可莉🅥 |
-| [Jump去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Jump%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除Jump开屏广告 | MoonYuki |
-| [KOOK去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/KOOK%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、房间横幅推广、精简我的页面，移除底栏商城入口。 | 可莉🅥 |
-| [Keep去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Keep%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索推荐和弹窗广告，精简底栏和首页标签。移除关注推荐、文章相关推荐和信息流中的课程推广。 | 可莉🅥 |
-| [QQ音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/QQ%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤QQ音乐广告 | 可莉🅥 |
-| [RQrun去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/RQrun%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告 | 可莉🅥 |
-| [Reddit去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Reddit%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤应用内推广，阻止NSFW提示。 | xream |
-| [ReelShort去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/ReelShort%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、为你推荐及各类弹窗，移除搜索栏填充词。 | 可莉🅥 |
-| [Roborock去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Roborock%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅、活动推广。 | 可莉🅥 |
-| [Soul去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Soul%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、移除话题页面热Soul话题、移除评论区礼物榜、移除更新提示、移除青少年弹窗、移除我的页面推广、移除悬浮部件。 | ZenmoFeiShi, RuCu6, 可莉🅥 |
-| [Spotify去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除播放广告，恢复歌手和专辑列表的正常展示。修改插件自定义配置项需要重新登陆方可生效。 | 001ProMax |
-| [Spotify歌词增强](https://raw.githubusercontent.com/lzr52o/Surge/master/Spotify%E6%AD%8C%E8%AF%8D%E5%A2%9E%E5%BC%BA.sgmodule) | 将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。 | VirgilClyne |
-| [Spotify歌词增强](https://raw.githubusercontent.com/lzr52o/Surge/master/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.sgmodule) | 将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。 | VirgilClyne |
-| [TeraBox去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/TeraBox%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、弹窗广告及横幅广告。 | 可莉🅥 |
-| [TikTok解锁](https://raw.githubusercontent.com/lzr52o/Surge/master/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule) | 移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。 | Keywos |
-| [TubeMax去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/TubeMax%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤TubeMax广告 | 可莉🅥 |
-| [Uki去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/Uki%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗，各类横幅、信息流广告、搜索填充词、我的页面广告。 | 可莉🅥 |
-| [VVebo时间线修复](https://raw.githubusercontent.com/lzr52o/Surge/master/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.sgmodule) | 修复失效的用户时间线和我的页面。使用此插件前需要禁用微博去广告插件，避免插件冲突导致失效。 | suiyuran, androidcn |
-| [WPS每日签到](https://raw.githubusercontent.com/lzr52o/Surge/master/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule) | WPS每日签到并兑换会员，需要进入此插件的主页链接，阅读使用说明操作。 | 小白脸 |
-| [YY去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/YY%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗，精简底栏和我的页面。 | 可莉🅥 |
-| [YY语音去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/YY%E8%AF%AD%E9%9F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、任务推广、频道横幅推广，精简广场顶部标签。 | 可莉🅥 |
-| [YouTube双语翻译](https://raw.githubusercontent.com/lzr52o/Surge/master/YouTube%E7%BF%BB%E8%AF%91.sgmodule) | 字幕增强及双语翻译，支持Youtube Music歌词翻译。此插件需要置于YouTube去广告插件之下，且和YouTube去广告插件的歌词翻译冲突，不支持tvOS设备。 | VirgilClyne |
-| [ZAKER去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/ZAKER%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、置顶轮播图广告和文末广告。 | 可莉🅥 |
-| [一甜相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%80%E7%94%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告及图片选择器横幅广告。 | 可莉🅥 |
-| [七猫小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除大部分七猫小说广告，但受限于七猫小说自身对MitM和VPN状态的检测，部分页面广告无法移除。 | 可莉🅥 |
-| [下厨房去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%8B%E5%8E%A8%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、页面推广及横幅，精简首页标签。 | 可莉🅥 |
-| [中华万年历去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%AD%E5%8D%8E%E4%B8%87%E5%B9%B4%E5%8E%86%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、信息流推广，精简我的页面。 | 可莉🅥 |
-| [中国人保去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除中国人保开屏广告和应用内广告 | Sliverkiss |
-| [中国移动云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除中国移动云盘开屏广告及应用内广告，首页的多余卡片可滑到最底部自定义隐藏掉，插件对此不做处理。 | RuCu6 |
-| [丰巢去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B8%B0%E5%B7%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗，精简首页和生活服务。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
-| [乐播投屏去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广、全网全网热投榜，移除我的页面横幅推广。 | 可莉🅥 |
-| [书旗小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除书城横幅广告、听书广告、阅读广告、章末推荐、福利入口、悬浮窗、推荐搜索词，精简我的页面。 | 可莉🅥 |
-| [书香门第签到](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule) | 请配置账号密码，默认签到时间为晚上0点0分。 | bgcode🅥 |
-| [云闪付去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BA%91%E9%97%AA%E4%BB%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤银联云闪付广告，需要IPA签名注入方可使用，仅支持云闪付10.1.2版。App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | RuCu6 |
-| [云鲸智能去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BA%91%E9%B2%B8%E6%99%BA%E8%83%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，禁用商城。 | 可莉🅥 |
-| [京东去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除京东开屏广告，精简我的页面产品推广。 | RuCu6, Maasea |
-| [京东外卖去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广、点评页面非美食内容、购物车及我的页面推荐、搜索发现、搜索榜单，精简我的页面。 | 可莉🅥 |
-| [京东比价](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.sgmodule) | 首次使用需安装慢慢买应用，之后点击进入[我的]页面以捕获Cookie，捕获成功后方可在商品详情页面查看比价内容。 | wf021325, githubdulong, mw418 |
-| [什么值得买去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、各类横幅广告、搜索页广告、文章内广告，移除活动皮肤、精简我的页面。 | 可莉🅥 |
-| [优酷视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、视频广告、信息流广告。其余广告由于请求已加密，故无法移除。 | 可莉🅥, RuCu6 |
-| [健康160去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%81%A5%E5%BA%B7160%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、弹窗广告、横幅广告，精简我的页面。 | 可莉🅥 |
-| [全民K歌去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%85%A8%E6%B0%91K%E6%AD%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、歌房页面弹窗广告、消息页广告和我的页面广告。 | 可莉🅥 |
-| [前程无忧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、信息流推广、职位页面推广和各类横幅推广。 | 可莉🅥 |
-| [剑网三无界去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%89%91%E7%BD%91%E4%B8%89%E6%97%A0%E7%95%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除热门推送活动，并解决无法在Loon运行时更新和登录的问题。 | 可莉🅥 |
-| [医考帮去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%8C%BB%E8%80%83%E5%B8%AE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅推广、弹窗、首页悬浮挂件。 | 可莉🅥 |
-| [叮咚买菜去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%8F%AE%E5%92%9A%E4%B9%B0%E8%8F%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索推荐、信息流广告、悬浮广告、各页面购物推荐、精简我的页面，移除底栏和各页面AI入口。 | zirawell, 可莉🅥, wish |
-| [可莉广告过滤器](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%8F%AF%E8%8E%89%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4%E5%99%A8.sgmodule) | 可莉自用的广告过滤器 | 可莉🅥 |
-| [向日葵去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%90%91%E6%97%A5%E8%91%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、广告横幅。 | 可莉🅥 |
-| [启信宝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%90%AF%E4%BF%A1%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、首页轮播图、悬浮部件和个性化推荐信息流。 | 可莉🅥 |
-| [哔哩哔哩去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤哔哩哔哩广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。 | Maasea, kokoryh, RuCu6, 可莉🅥 |
-| [哔哩哔哩漫画去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、各类横幅广告、你可能喜欢、小说推荐、首页弹窗，精简首页标签、底栏活动按钮和我的页面。 | 可莉🅥 |
-| [喜马拉雅去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、播放器广告、各类推荐内容，精简频道和我的页面。 | 可莉🅥 |
-| [图怪兽去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%9B%BE%E6%80%AA%E5%85%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、各页面横幅推广。 | 可莉🅥 |
-| [堆糖去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A0%86%E7%B3%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、热搜排行榜广告、我的页面横幅广告，移除关注推荐，精简底部导航栏。 | 可莉🅥 |
-| [墨迹天气去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除天气页面横幅、工具栏，移除时景关注页面推荐，精简我的页面。 | 可莉🅥 |
-| [大麦去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A4%A7%E9%BA%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、轮播图广告和弹窗广告，移除搜索填充词和专属推荐。 | 可莉🅥 |
-| [夸克去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A4%B8%E5%85%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除阅读广告、各页面弹窗及横幅，精简我的页面。 | 可莉🅥 |
-| [夸克扫描王去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A4%B8%E5%85%8B%E6%89%AB%E6%8F%8F%E7%8E%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗广告、横幅广告，精简我的页面。 | 可莉🅥 |
-| [威锋去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%A8%81%E9%94%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、文末广告、首页轮播图推广。 | 可莉🅥 |
-| [宝宝树孕育去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%AE%9D%E5%AE%9D%E6%A0%91%E5%AD%95%E8%82%B2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤宝宝树孕育广告 | RuCu6 |
-| [小喵看书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E5%96%B5%E7%9C%8B%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除小喵看书章末广告 | 可莉🅥 |
-| [小宇宙去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E5%AE%87%E5%AE%99%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索框推荐词和AI总结。 | wish |
-| [小店掌柜去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E5%BA%97%E6%8E%8C%E6%9F%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、活动推广和页面跳转。 | 可莉🅥 |
-| [小桔充电去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E6%A1%94%E5%85%85%E7%94%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅广告、弹窗广告，精简我的页面。 | 可莉🅥 |
-| [小米音箱去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E7%B1%B3%E9%9F%B3%E7%AE%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内横幅广告及弹窗广告。 | 可莉🅥 |
-| [小红书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤信息流推广，移除图片及视频水印，如有异常，请先清除缓存再尝试。 | RuCu6, fmz200 |
-| [小蚕霸王餐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E8%9A%95%E9%9C%B8%E7%8E%8B%E9%A4%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广、红包推广、更新弹窗。 | Sliverkiss, 可莉🅥 |
-| [小象超市去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、猜你想买、横幅推广和悬浮窗。 | 可莉🅥 |
-| [小黑盒去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和热点板块信息流广告 | 可莉🅥 |
-| [帆书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B8%86%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗和会员任务，精简首页、听书页面、课程菜单和我的页面。 | Yuheng0101 |
-| [广告平台拦截器](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule) | 此插件是所有去广告插件的基础，只针对广告平台处理。你依然需要安装其他去广告插件来搭配使用，并确保此插件始终排序在顶部。 支持拦截腾讯、字节跳动、快手、百度、邑盟、倍孜、艾狄墨搏、袤博、极光、个推、友盟、阿里巴巴、阿里妈妈、阿里百川、超级汇川、优比客思、秒针、网易、美团、小米、京东、天目、讯飞、泛连、锐讯灵通、聚次方、美数、嗨量、维快网络、变现猫、章鱼、分秒、泰之菩、翼信、快易、数萤技术、方麟、益起、上量优选、新义互联、腾云天下、布里奇、塔酷、丽声、推啊、旺脉、新度博望、新多广告、快易科技、封狐信息、互裕科技、旺脉信息、佳量动力、享点科技、游昆信息、小川科技、旺脉科技、萃弈、泛为、米漫、易量跃动、秒针、贵士移动、星讯、倍业科技、创聚科技、硬核聚视、数因科技、芒拓网络、上海领页、神蓍科技、Google、SupersonicAds、APPSAD、Adjust、Sigmob、TradPlus、Fancy、MedPro、AppLovin、Unity3D、Tapjoy、Liftoff、Vungle、Moloco、Smadex、Tapad、Appier、InMobi、AppsFlyer、AppLovin、Moloco、RayJump、RixEngine、Amazon等广告平台的广告请求，更适合iOS平台的应用。 | 可莉🅥 |
-| [库街区去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BA%93%E8%A1%97%E5%8C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、搜索页面的热搜及话题热榜。 | 可莉🅥 |
-| [彩云天气去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广、弹窗、悬浮窗、底栏天气助手和工具箱入口，移除我的页面广告横幅。 | RuCu6 |
-| [得物去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%97%E7%89%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、搜索词填充、热搜榜、猜你想搜、推荐关注、推荐信息流，精简消息中心和我的页面。 | 可莉🅥 |
-| [得间小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%97%E9%97%B4%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、章末广告，移除扉页广告提示、听书界面广告提示、搜索栏填充词。 | 可莉🅥 |
-| [微信公众号去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤微信公众号广告 | RuCu6 |
-| [微信外部链接解锁](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule) | 解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。 | zZPiglet |
-| [微信小程序去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 收录常用小程序的去广告，作者署名在插件内。 | 可莉🅥 |
-| [微博去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤微博广告及去除各部分推广模块 | RuCu6, zmqcherish |
-| [微博轻享版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤轻享版广告，移除各部分推广模块，仅支持到6.6.8版。 | kokoryh |
-| [微博轻享版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E5%8D%9A%E8%BD%BB%E4%BA%AB%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、时间线广告及评论区广告，移除发现页面横幅推广、最常访问、主页访客及热门视频，移除搜索填充词。 | 可莉🅥 |
-| [微脉圈去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BE%AE%E8%84%89%E5%9C%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、聊天页横幅提示及发现页面的横幅广告。 | 可莉🅥 |
-| [快对去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E5%AF%B9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简我的页面。 | 可莉🅥 |
-| [快影去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流推广、横幅推广，移除悬浮部件。 | 可莉🅥 |
-| [快手去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E6%89%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、视频流广告、底栏皮肤、右下角悬浮推广，精简我的页面。 | 可莉🅥 |
-| [快捷搜索](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.sgmodule) | 为Safari提供快速切换搜索引擎的能力，在插件列表中点击此插件上的链接查看使用方法。 | 可莉🅥 |
-| [快看漫画去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮窗、漫画广告、社区广告、各类弹窗，精简顶部标签、我的页面。 | 可莉🅥 |
-| [快递100去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E5%BF%AB%E9%80%92100%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅广告、弹窗广告，精简首页。 | 可莉🅥 |
-| [成分喵去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%88%90%E5%88%86%E5%96%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广活动、广告组件请求、移除被查商品购买链接、搜索发现。 | 可莉🅥 |
-| [拦截HTTPDNS](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8B%A6%E6%88%AAHTTPDNS.sgmodule) | 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。 | 可莉🅥, VirgilClyne |
-| [拼多多去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、底栏多多视频、会场入口、聊天页面精选推荐及推广，精简首页和个人中心。 | ZenmoFeiShi, 可莉🅥 |
-| [挖财记账去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗广告、推广语横幅和右下角悬浮广告。 | 可莉🅥 |
-| [掌上无畏契约去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8E%8C%E4%B8%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜。 | 可莉🅥 |
-| [掌上穿越火线去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8E%8C%E4%B8%8A%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
-| [掌上英雄联盟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8E%8C%E4%B8%8A%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
-| [掌阅去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8E%8C%E9%98%85%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告、弹窗广告、朗读音色广告及我的页面广告，移除各页面的横幅轮播图。 | 可莉🅥 |
-| [推栏去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%8E%A8%E6%A0%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤推栏广告 | 可莉🅥 |
-| [收银通商户端去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%94%B6%E9%93%B6%E9%80%9A%E5%95%86%E6%88%B7%E7%AB%AF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和首页推广 | 可莉🅥 |
-| [数字心动去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%95%B0%E5%AD%97%E5%BF%83%E5%8A%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页顶部标签、轮播图、悬浮挂件、热门搜索、信息流广告。 | 可莉🅥 |
-| [斗鱼去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%96%97%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏、首页视频流、首页轮播图广告，移除直播间悬浮窗。 | 可莉🅥 |
-| [无他相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%97%A0%E4%BB%96%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、拍摄页面广告、右小角广告，精简底栏。 | 可莉🅥 |
-| [智慧苏州去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%99%BA%E6%85%A7%E8%8B%8F%E5%B7%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅，移除信息流推广。 | xream |
-| [智联招聘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、职位页面推广和各类横幅推广。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
-| [最右去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%9C%80%E5%8F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和广告轮播图。 | 可莉🅥 |
-| [有道云笔记去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告及横幅广告。 | 可莉🅥 |
-| [有道翻译官去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%AE%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简首页。 | 可莉🅥 |
-| [朴朴超市去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%9C%B4%E6%9C%B4%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除超市去开屏广告，移除首页顶部轮播图和图标广告、启动小弹图广告、首页右下角悬浮动画、搜索热搜榜、搜索建议词、搜索发现热词、订单页面商，精简我的页面。 | kelv1n1n, 可莉🅥 |
-| [比特球云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%AF%94%E7%89%B9%E7%90%83%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和各类横幅推广。 | 可莉🅥 |
-| [汽水音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、播放器推广、歌曲详情界面视频推广、播放页面的歌曲视频，精简首页和我的页面。 | 可莉🅥 |
-| [汽车之家去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类广告横幅、各类信息流广告、各类弹窗推广、各类浮窗、我的页面广告。 | 可莉🅥 |
-| [波点音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简应用配置，禁用P2P传输。移除开屏广告、横幅推广、悬浮广告、歌曲广告、商城入口、搜索推广、评论区推广、试听语音提醒。 | 可莉🅥 |
-| [淘宝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%B7%98%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤淘宝开屏广告 | RuCu6 |
-| [淘票票去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%B7%98%E7%A5%A8%E7%A5%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告、轮播图广告和弹窗广告，移除搜索填充词和为你推荐。 | 可莉🅥 |
-| [滴滴出行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅推广，精简底栏和我的页面。 | 可莉🅥 |
-| [滴答出行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%BB%B4%E7%AD%94%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告，精简底栏和我的页面。 | 可莉🅥 |
-| [漫客栈去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E6%BC%AB%E5%AE%A2%E6%A0%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、漫画广告、小说章末广告，精简我的页面。 | 可莉🅥 |
-| [爱企查去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%88%B1%E4%BC%81%E6%9F%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、首页轮播图、悬浮部件、信息流和搜索填充词。 | 可莉🅥 |
-| [爱奇艺去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%88%B1%E5%A5%87%E8%89%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、焦点图广告、瀑布流广告、搜索页面广告、移除青少年弹窗，精简底栏和我的页面。 | 可莉🅥 |
-| [爱奇艺去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、焦点图广告、瀑布流广告、搜索页面广告、移除青少年弹窗，精简底栏和我的页面。 | 可莉🅥 |
-| [猫耳FM去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%8C%AB%E8%80%B3FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、青少年模式弹窗、首页顶部入口，替换底栏的直播入口为发现入口。 | 可莉🅥 |
-| [王者营地去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%8E%8B%E8%80%85%E8%90%A5%E5%9C%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
-| [瑞幸咖啡去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗和各类横幅推广。 | Sliverkiss |
-| [番茄小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除番茄小说开屏广告、移除文章底部和章末广告、移除听书页面广告、移除悬浮部件和底栏多余的福利标签。 | 可莉🅥 |
-| [百度地图去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、出行页面推广、周边页面推广、打车页面推广，精简我的页面。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
-| [百度网页去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除百度搜索移动端网页的首页广告信息流 | Keywos |
-| [百度文库去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、弹窗广告、信息流推广、搜索发现、热门搜索、资料库搜索推荐，精简我的页面。 | 可莉🅥 |
-| [百度网盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页卡片广告、传输页面广告、各类弹窗，精简侧拉抽屉和我的页面。 | 可莉🅥 |
-| [百度网页去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除百度搜索移动端网页的首页广告信息流 | Keywos |
-| [百度贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和帖内广告，精简侧拉抽屉及我的页面。 | 可莉🅥, app2smile |
-| [百度输入法去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤百度输入法广告，替换个人主页随机图。 | Keywos |
-| [皮皮虾去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%9A%AE%E7%9A%AE%E8%99%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、评论区广告、视频流广告，精简我的页面。 | 可莉🅥 |
-| [盖得排行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%9B%96%E5%BE%97%E6%8E%92%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简首页、移除分类横幅推广、单单返猜你喜欢和编辑精选，移除我的页面推广。 | 可莉🅥 |
-| [省钱快报去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%9C%81%E9%92%B1%E5%BF%AB%E6%8A%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、商品推荐，精简我的页面。 | 可莉🅥 |
-| [知乎去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%9F%A5%E4%B9%8E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除各部分广告，移除知乎安全中心跳转，建议卸载知乎重新安装。如遇安全中心页面移除失败的，请积极反馈。 | RuCu6, blackmatrix7 |
-| [知识星球去水印](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E5%8E%BB%E6%B0%B4%E5%8D%B0.sgmodule) | 移除内容的水印编号 | 可莉🅥 |
-| [磁力宅播放器去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%A3%81%E5%8A%9B%E5%AE%85%E6%92%AD%E6%94%BE%E5%99%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗和文件列表广告。 | 可莉🅥 |
-| [稿定设计去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除稿定设计开屏广告、首页轮播图和弹窗，移除功能入口角标。 | 可莉🅥 |
-| [米游社去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%B1%B3%E6%B8%B8%E7%A4%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索栏热搜及资讯、青少年模式弹窗。 | 可莉🅥 |
-| [粉笔去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%B2%89%E7%AC%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、悬浮广告、热门搜索，移除底栏皮肤，精简我的页面。 | 可莉🅥 |
-| [纵横小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BA%B5%E6%A8%AA%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除纵横小说开屏广告和弹窗 | 可莉🅥 |
-| [网易云音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤网易云音乐广告，并允许自定义界面。 | RuCu6, Keywos |
-| [网易大神去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BD%91%E6%98%93%E5%A4%A7%E7%A5%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告，精简大量冗余的配置文件，精简我的页面。 | 可莉🅥 |
-| [网易新闻去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、置顶新闻、热搜列表和搜索栏填充词。 | RuCu6 |
-| [网易有道词典去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告、信息流广告、旧版翻译页面广告及搜索填充词。 | 可莉🅥 |
-| [网易邮箱大师去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除网易邮箱大师开屏广告、签到任务提醒，精简侧拉抽屉和我的页面。 | 可莉🅥 |
-| [美丽修行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BE%8E%E4%B8%BD%E4%BF%AE%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页广告、发现页广告、美修盒页面广告、下拉广告、弹窗广告、搜索推广、版本更新弹窗及我的页面广告。 | 可莉🅥 |
-| [美图秀秀去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简我的页面。 | 可莉🅥 |
-| [美柚去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BE%8E%E6%9F%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广和信息流推广，移除青少年模式弹窗和我的页面推广。 | 可莉🅥 |
-| [美颜相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BE%8E%E9%A2%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗，精简首页和我的页面。 | 可莉🅥 |
-| [美食杰去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E7%BE%8E%E9%A3%9F%E6%9D%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和信息流广告。 | 可莉🅥 |
-| [胖乖生活去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%83%96%E4%B9%96%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅轮播图、网格广告、信息流广告、浮窗广告，精简我的页面。 | 可莉🅥 |
-| [脉脉去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%84%89%E8%84%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、横幅推广、相关帖子推荐。 | 可莉🅥 |
-| [腾讯文档去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广。 | 可莉🅥 |
-| [腾讯视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤腾讯视频客户端广告，如遇失效，则需要重新安装腾讯视频客户端。由于此插件不再维护，客户端版本高于8.9.40可能会导致此插件失效，请勿升级客户端。 | RuCu6 |
-| [自动加入TestFlight](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.sgmodule) | 自动监控TestFlight名额，一旦有新的名额即刻加入。 | DecoAri, xream |
-| [航旅纵横去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤航旅纵横广告 | 佚名 |
-| [芒果TV去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%8A%92%E6%9E%9CTV%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、播放页广告，精简我的页面。 | 可莉🅥, RuCu6 |
-| [菜鸟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤菜鸟广告 | 小白脸 |
-| [萌娘百科去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、首页横幅。 | 可莉🅥 |
-| [萝卜快跑去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告、新用户活动皮肤，保留优惠活动。 | 可莉🅥 |
-| [萤石云视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%90%A4%E7%9F%B3%E4%BA%91%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广、我的页面推广。 | 可莉🅥 |
-| [薄荷健康去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除记录页大家都在看、移除各类弹窗，移除广场横幅推广，精简代谢中心页面。 | 可莉🅥 |
-| [虎扑去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%99%8E%E6%89%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除虎扑开屏广告、首页顶部推广、我的页面多余模块及各类横幅推广。 | ZenmoFeiShi |
-| [蜻蜓FM去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%9C%BB%E8%9C%93FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、各类相关内容推荐，精简我的页面。 | 可莉🅥 |
-| [触站去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%A7%A6%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、各页面横幅推广，移除首页悬浮挂件。 | 可莉🅥 |
-| [豆瓣去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B1%86%E7%93%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各页面信息流广告、首页横幅、搜索填充词。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
-| [豆瓣阅读去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B1%86%E7%93%A3%E9%98%85%E8%AF%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、热门搜索、热搜榜。 | 可莉🅥 |
-| [贝壳找房去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B4%9D%E5%A3%B3%E6%89%BE%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、悬浮广告、信息流推广、我家页面的装修推荐。移除我的页面的专属推荐、游戏入口、钱包入口。 | 可莉🅥 |
-| [财新去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B4%A2%E6%96%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤财新广告 | RuCu6 |
-| [百度贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和帖内广告，精简侧拉抽屉及我的页面。需注意此插件会导致新回复等通知功能不可用，需手动进入消息页点击查看。仅限iOS 15及以上版本系统使用。 | ZenmoFeiShi, 可莉🅥, app2smile |
-| [起点读书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除起点读书开屏广告、每日导读、各类弹窗、文末广告、搜索填充词，精简我的页面。 | 可莉🅥 |
-| [转转去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%BD%AC%E8%BD%AC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、信息流推广、商品推荐、首页弹窗，精简我的页面。 | 可莉🅥 |
-| [迅雷去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E8%BF%85%E9%9B%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅广告、左上角广告入口，精简我的页面。 | 可莉🅥 |
-| [配音秀去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%8D%E9%9F%B3%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、横幅、各类关注推荐。 | 可莉🅥 |
-| [酷安去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%B7%E5%AE%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤酷安广告 | RuCu6, 可莉🅥 |
-| [酷我音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类弹窗、悬浮窗、各类横幅广告、信息流广告、歌词评论区广告和播放器界面广告，精简侧边栏。 | 可莉🅥 |
-| [酷狗概念版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除广告服务模块、播放器广告，精简乐库及搜索页面。 | 可莉🅥 |
-| [酷狗铃声去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%B7%E7%8B%97%E9%93%83%E5%A3%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告，移除歌曲列表、播放器、搜索界面广告，移除悬浮广告和弹窗广告。 | 可莉🅥 |
-| [酷狗音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用各类弹窗、各类横幅广告、评论区广告和播放器界面广告。 | 可莉🅥 |
-| [金山文档去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%87%91%E5%B1%B1%E6%96%87%E6%A1%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页横幅推广、表单收集页面推广和我的页面推广。 | 可莉🅥 |
-| [闲鱼去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、商品信息流广告、关注推荐、搜索栏填充词、首页签到入口及悬浮广告，精简我的页面。 | 可莉🅥 |
-| [阅友去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%98%85%E5%8F%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告和阅读页面广告，移除底栏福利按钮。 | 可莉🅥 |
-| [阿里云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页广告横幅、弹窗和顶部奖励。 | RuCu6 |
-| [随手记去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、神象云账本内部广告、我的页面广告，移除社区入口。 | 可莉🅥 |
-| [雪球去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%9B%AA%E7%90%83%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类横幅广告、信息流广告、帖内广告、新用户定向广告、各类弹窗、股票精选推荐、基金精选推荐、聪明的投资者推荐、私募推荐、直播推荐。 | 可莉🅥 |
-| [顺丰速运去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页下拉抽屉、首页推广、应用内悬浮窗、横幅广告，移除主题，精简我的页面。 | 可莉🅥 |
-| [风鸟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A3%8E%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页信息流和轮播图 | 可莉🅥 |
-| [飞客去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A3%9E%E5%AE%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页广告、板块广告、帖内广告和我的页面广告。 | 可莉🅥 |
-| [飞猪旅行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A3%9E%E7%8C%AA%E6%97%85%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、精简我的页面。 | 可莉🅥 |
-| [香港抖音去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A6%99%E6%B8%AF%E6%8A%96%E9%9F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简左右侧边栏、移除底栏切换，其余内容后续再完善。 | 可莉🅥 |
-| [马蜂窝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A9%AC%E8%9C%82%E7%AA%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页信息流广告、商城横幅推广、我的页面弹窗。 | 可莉🅥 |
-| [驾校一点通去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A9%BE%E6%A0%A1%E4%B8%80%E7%82%B9%E9%80%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各页面广告横幅、弹窗广告，移除社区广告。 | 可莉🅥 |
-| [驾考宝典去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%A9%BE%E8%80%83%E5%AE%9D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、悬浮窗广告、社区帖子广告，精简我的页面。 | 可莉🅥 |
-| [高德地图去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤高德地图开屏广告、各页面推广，精简我的页面。 | RuCu6, kelv1n1n, 可莉🅥 |
+| [Line去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除Line各类广告 | jkgtw |
+| [哔哩哔哩广告净化\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/bilibili-ads.sgmodule) | B站去广告净化，V2.0.138（2025-07-18） | @ddgksf2013 |
+| [BuyiTunes会员解锁\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/buyitunes.sgmodule) | BuyiTunes 多合一解锁脚本，2024-01-24 | @ddgksf2013 |
+| [App解锁合集](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/chxm-collections.sgmodule) | App 解锁合集，叮当猫 Collections.conf 转 Surge，2026-04-26 | @ddm1023 |
+| [PhotoRetouch](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/photoretouch.sgmodule) | Photo Retouch 解锁 | chxm1023 |
+| [墨鱼去开屏V2.0](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/startup-ads.sgmodule) | 400余应用去开屏广告，v2.0.648（2026-08-29） | @ddgksf2013 |
+| [TouchreTouch](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/touchretouch.sgmodule) | TouchRetouch 消除笔恢复购买，5.2.4 | WeiGiegie |
+| [解锁合集](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/unlock-collection.sgmodule) | 24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey） | 合集（NobyDa、yichahucha、Choler、Alex0510 等） |
+| [微博净化\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/weibo-enhanced.sgmodule) | 微博去广告净化，V0.1.53（2026-10-19） | @ddgksf2013 |
+| [iTunes合集By Yu9191](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-itunes.sgmodule) | iTunes 系列解锁合集，2025-02-27 | @ios151 |
+| [Revenuecat合集By Yu9191](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-revenuecat.sgmodule) | RevenueCat 合集，适配 10.5 及以后软件 | Yu9191 |
+| [一刻相册去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告和弹窗推广。 | 可莉🅥 |
+| [BoxJs](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/boxjs.sgmodule) | BoxJs 配置工具 | chavyleung |
+| [Reddit增强\[墨鱼版\]](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/reddit-ads.sgmodule) | 去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，去除NSFW遮罩，伪装Premium | @ddgksf2013 |
+| [贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/tieba-ads.sgmodule) | 开屏广告；推荐和吧内帖子列表的直播及广告；详情页直播/关联商品/广告；看图模式广告 | app2smile |
+| [1.1.1.1配置管理](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.sgmodule) | 提取1.1.1.1应用的配置并生成Loon可用的节点配置，点击下面署名前往配置1.1.1.1的BoxJs配置。 | VirgilClyne, I-am-R-E |
+| [12306去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤12306应用内广告及开屏广告 | RuCu6 |
+| [123云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/123%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内横幅广告。 | 可莉🅥 |
+| [360摄像机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广、底栏商城入口及我的页面推广。 | 可莉🅥 |
+| [360智慧生活去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/360%E6%99%BA%E6%85%A7%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广横幅、商城入口及我的页面推广。 | 可莉🅥 |
+| [555电影去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/555%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和各类横幅广告，支持iPadOS。 | 可莉🅥 |
+| [B612咔叽去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/B612%E5%92%94%E5%8F%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗及拍摄页面底部横幅广告。 | 可莉🅥 |
+| [CC直播去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/CC%E7%9B%B4%E6%92%AD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除信息流推广和横幅，精简顶部标签。 | 可莉🅥 |
+| [DNS防泄露](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/DNS%E9%98%B2%E6%B3%84%E9%9C%B2.sgmodule) | 专为小白设计的DNS防泄露 | 非正常人类研究中心 |
+| [DREAME去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/DREAME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页大图推广、横幅推广，精简底栏，阻止桌面图标替换。仅支持2.5.1版。 | 可莉🅥 |
+| [Dlabel云标签去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Dlabel%E4%BA%91%E6%A0%87%E7%AD%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告及首页横幅。 | 可莉🅥 |
+| [ECOVACS HOME去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/ECOVACS%20HOME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅推广，精简底栏。 | 可莉🅥 |
+| [Fileball网盘挂载](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.sgmodule) | 支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下方署名查看使用方法。 | 小白脸 |
+| [Foodie去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Foodie%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和弹窗广告 | 可莉🅥 |
+| [Google搜索重定向](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E6%90%9C%E7%B4%A2%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule) | 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。 | 可莉🅥 |
+| [Google搜索重定向](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule) | 将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。 | 可莉🅥 |
+| [HTTPDNS拦截器](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/HTTPDNS%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule) | 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。 | 可莉🅥, VirgilClyne |
+| [IPA工具箱助手](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/IPA%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%8A%A9%E6%89%8B.sgmodule) | 这是IPA工具箱的辅助插件，用于下载IPA包和应用降级。IPA工具箱是运行在Scripting应用中的脚本，需要购买Scripting的Pro版本才能运行。 | 小白脸 |
+| [IT之家去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/IT%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图，自定义移除项需在插件配置。 | 可莉🅥 |
+| [Jump去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Jump%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除Jump开屏广告 | MoonYuki |
+| [KOOK去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/KOOK%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、房间横幅推广、精简我的页面，移除底栏商城入口。 | 可莉🅥 |
+| [Keep去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Keep%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索推荐和弹窗广告，精简底栏和首页标签。移除关注推荐、文章相关推荐和信息流中的课程推广。 | 可莉🅥 |
+| [QQ音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/QQ%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤QQ音乐广告 | 可莉🅥 |
+| [RQrun去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/RQrun%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告 | 可莉🅥 |
+| [Reddit去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Reddit%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤应用内推广，阻止NSFW提示。 | xream |
+| [ReelShort去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/ReelShort%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、为你推荐及各类弹窗，移除搜索栏填充词。 | 可莉🅥 |
+| [Roborock去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Roborock%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅、活动推广。 | 可莉🅥 |
+| [Soul去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Soul%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、移除话题页面热Soul话题、移除评论区礼物榜、移除更新提示、移除青少年弹窗、移除我的页面推广、移除悬浮部件。 | ZenmoFeiShi, RuCu6, 可莉🅥 |
+| [Spotify去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除播放广告，恢复歌手和专辑列表的正常展示。修改插件自定义配置项需要重新登陆方可生效。 | 001ProMax |
+| [Spotify歌词增强](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E5%A2%9E%E5%BC%BA.sgmodule) | 将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。 | VirgilClyne |
+| [Spotify歌词增强](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.sgmodule) | 将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。 | VirgilClyne |
+| [TeraBox去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TeraBox%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、弹窗广告及横幅广告。 | 可莉🅥 |
+| [TikTok解锁](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule) | 移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。 | Keywos |
+| [TubeMax去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TubeMax%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤TubeMax广告 | 可莉🅥 |
+| [Uki去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Uki%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗，各类横幅、信息流广告、搜索填充词、我的页面广告。 | 可莉🅥 |
+| [VVebo时间线修复](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.sgmodule) | 修复失效的用户时间线和我的页面。使用此插件前需要禁用微博去广告插件，避免插件冲突导致失效。 | suiyuran, androidcn |
+| [WPS每日签到](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule) | WPS每日签到并兑换会员，需要进入此插件的主页链接，阅读使用说明操作。 | 小白脸 |
+| [YY去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YY%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗，精简底栏和我的页面。 | 可莉🅥 |
+| [YY语音去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YY%E8%AF%AD%E9%9F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、任务推广、频道横幅推广，精简广场顶部标签。 | 可莉🅥 |
+| [YouTube双语翻译](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YouTube%E7%BF%BB%E8%AF%91.sgmodule) | 字幕增强及双语翻译，支持Youtube Music歌词翻译。此插件需要置于YouTube去广告插件之下，且和YouTube去广告插件的歌词翻译冲突，不支持tvOS设备。 | VirgilClyne |
+| [ZAKER去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/ZAKER%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、置顶轮播图广告和文末广告。 | 可莉🅥 |
+| [一甜相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%80%E7%94%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告及图片选择器横幅广告。 | 可莉🅥 |
+| [七猫小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除大部分七猫小说广告，但受限于七猫小说自身对MitM和VPN状态的检测，部分页面广告无法移除。 | 可莉🅥 |
+| [下厨房去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%8B%E5%8E%A8%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、页面推广及横幅，精简首页标签。 | 可莉🅥 |
+| [中华万年历去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%AD%E5%8D%8E%E4%B8%87%E5%B9%B4%E5%8E%86%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、信息流推广，精简我的页面。 | 可莉🅥 |
+| [中国人保去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BF%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除中国人保开屏广告和应用内广告 | Sliverkiss |
+| [中国移动云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除中国移动云盘开屏广告及应用内广告，首页的多余卡片可滑到最底部自定义隐藏掉，插件对此不做处理。 | RuCu6 |
+| [丰巢去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%B0%E5%B7%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗，精简首页和生活服务。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
+| [乐播投屏去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广、全网全网热投榜，移除我的页面横幅推广。 | 可莉🅥 |
+| [书旗小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除书城横幅广告、听书广告、阅读广告、章末推荐、福利入口、悬浮窗、推荐搜索词，精简我的页面。 | 可莉🅥 |
+| [书香门第签到](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule) | 请配置账号密码，默认签到时间为晚上0点0分。 | bgcode🅥 |
+| [云闪付去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%91%E9%97%AA%E4%BB%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤银联云闪付广告，需要IPA签名注入方可使用，仅支持云闪付10.1.2版。App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | RuCu6 |
+| [云鲸智能去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%91%E9%B2%B8%E6%99%BA%E8%83%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，禁用商城。 | 可莉🅥 |
+| [京东去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除京东开屏广告，精简我的页面产品推广。 | RuCu6, Maasea |
+| [京东外卖去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广、点评页面非美食内容、购物车及我的页面推荐、搜索发现、搜索榜单，精简我的页面。 | 可莉🅥 |
+| [京东比价](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.sgmodule) | 首次使用需安装慢慢买应用，之后点击进入[我的]页面以捕获Cookie，捕获成功后方可在商品详情页面查看比价内容。 | wf021325, githubdulong, mw418 |
+| [什么值得买去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、各类横幅广告、搜索页广告、文章内广告，移除活动皮肤、精简我的页面。 | 可莉🅥 |
+| [优酷视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、视频广告、信息流广告。其余广告由于请求已加密，故无法移除。 | 可莉🅥, RuCu6 |
+| [健康160去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%81%A5%E5%BA%B7160%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、弹窗广告、横幅广告，精简我的页面。 | 可莉🅥 |
+| [全民K歌去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%85%A8%E6%B0%91K%E6%AD%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、歌房页面弹窗广告、消息页广告和我的页面广告。 | 可莉🅥 |
+| [前程无忧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%89%8D%E7%A8%8B%E6%97%A0%E5%BF%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、信息流推广、职位页面推广和各类横幅推广。 | 可莉🅥 |
+| [剑网三无界去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%89%91%E7%BD%91%E4%B8%89%E6%97%A0%E7%95%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除热门推送活动，并解决无法在Loon运行时更新和登录的问题。 | 可莉🅥 |
+| [医考帮去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%8C%BB%E8%80%83%E5%B8%AE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅推广、弹窗、首页悬浮挂件。 | 可莉🅥 |
+| [叮咚买菜去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%8F%AE%E5%92%9A%E4%B9%B0%E8%8F%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索推荐、信息流广告、悬浮广告、各页面购物推荐、精简我的页面，移除底栏和各页面AI入口。 | zirawell, 可莉🅥, wish |
+| [可莉广告过滤器](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%8F%AF%E8%8E%89%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4%E5%99%A8.sgmodule) | 可莉自用的广告过滤器 | 可莉🅥 |
+| [向日葵去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%90%91%E6%97%A5%E8%91%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、广告横幅。 | 可莉🅥 |
+| [启信宝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%90%AF%E4%BF%A1%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、首页轮播图、悬浮部件和个性化推荐信息流。 | 可莉🅥 |
+| [哔哩哔哩去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤哔哩哔哩广告、移除青少年模式弹窗和交互式弹幕、移除无用功能和链接跟踪参数。此插件仅建议iOS 15以上设备使用，且必须启用MitM-over-HTTP/2功能。 | Maasea, kokoryh, RuCu6, 可莉🅥 |
+| [哔哩哔哩漫画去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、各类横幅广告、你可能喜欢、小说推荐、首页弹窗，精简首页标签、底栏活动按钮和我的页面。 | 可莉🅥 |
+| [喜马拉雅去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、播放器广告、各类推荐内容，精简频道和我的页面。 | 可莉🅥 |
+| [图怪兽去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%9B%BE%E6%80%AA%E5%85%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、各页面横幅推广。 | 可莉🅥 |
+| [堆糖去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A0%86%E7%B3%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、热搜排行榜广告、我的页面横幅广告，移除关注推荐，精简底部导航栏。 | 可莉🅥 |
+| [墨迹天气去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A2%A8%E8%BF%B9%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除天气页面横幅、工具栏，移除时景关注页面推荐，精简我的页面。 | 可莉🅥 |
+| [大麦去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A4%A7%E9%BA%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、轮播图广告和弹窗广告，移除搜索填充词和专属推荐。 | 可莉🅥 |
+| [夸克去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A4%B8%E5%85%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除阅读广告、各页面弹窗及横幅，精简我的页面。 | 可莉🅥 |
+| [夸克扫描王去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A4%B8%E5%85%8B%E6%89%AB%E6%8F%8F%E7%8E%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗广告、横幅广告，精简我的页面。 | 可莉🅥 |
+| [威锋去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%A8%81%E9%94%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、文末广告、首页轮播图推广。 | 可莉🅥 |
+| [宝宝树孕育去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%AE%9D%E5%AE%9D%E6%A0%91%E5%AD%95%E8%82%B2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤宝宝树孕育广告 | RuCu6 |
+| [小喵看书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E5%96%B5%E7%9C%8B%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除小喵看书章末广告 | 可莉🅥 |
+| [小宇宙去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E5%AE%87%E5%AE%99%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索框推荐词和AI总结。 | wish |
+| [小店掌柜去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E5%BA%97%E6%8E%8C%E6%9F%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、活动推广和页面跳转。 | 可莉🅥 |
+| [小桔充电去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E6%A1%94%E5%85%85%E7%94%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅广告、弹窗广告，精简我的页面。 | 可莉🅥 |
+| [小米音箱去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E7%B1%B3%E9%9F%B3%E7%AE%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内横幅广告及弹窗广告。 | 可莉🅥 |
+| [小红书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤信息流推广，移除图片及视频水印，如有异常，请先清除缓存再尝试。 | RuCu6, fmz200 |
+| [小蚕霸王餐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E8%9A%95%E9%9C%B8%E7%8E%8B%E9%A4%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广、红包推广、更新弹窗。 | Sliverkiss, 可莉🅥 |
+| [小象超市去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、猜你想买、横幅推广和悬浮窗。 | 可莉🅥 |
+| [小黑盒去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和热点板块信息流广告 | 可莉🅥 |
+| [帆书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B8%86%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗和会员任务，精简首页、听书页面、课程菜单和我的页面。 | Yuheng0101 |
+| [广告平台拦截器](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule) | 此插件是所有去广告插件的基础，只针对广告平台处理。你依然需要安装其他去广告插件来搭配使用，并确保此插件始终排序在顶部。 支持拦截腾讯、字节跳动、快手、百度、邑盟、倍孜、艾狄墨搏、袤博、极光、个推、友盟、阿里巴巴、阿里妈妈、阿里百川、超级汇川、优比客思、秒针、网易、美团、小米、京东、天目、讯飞、泛连、锐讯灵通、聚次方、美数、嗨量、维快网络、变现猫、章鱼、分秒、泰之菩、翼信、快易、数萤技术、方麟、益起、上量优选、新义互联、腾云天下、布里奇、塔酷、丽声、推啊、旺脉、新度博望、新多广告、快易科技、封狐信息、互裕科技、旺脉信息、佳量动力、享点科技、游昆信息、小川科技、旺脉科技、萃弈、泛为、米漫、易量跃动、秒针、贵士移动、星讯、倍业科技、创聚科技、硬核聚视、数因科技、芒拓网络、上海领页、神蓍科技、Google、SupersonicAds、APPSAD、Adjust、Sigmob、TradPlus、Fancy、MedPro、AppLovin、Unity3D、Tapjoy、Liftoff、Vungle、Moloco、Smadex、Tapad、Appier、InMobi、AppsFlyer、AppLovin、Moloco、RayJump、RixEngine、Amazon等广告平台的广告请求，更适合iOS平台的应用。 | 可莉🅥 |
+| [库街区去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BA%93%E8%A1%97%E5%8C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、搜索页面的热搜及话题热榜。 | 可莉🅥 |
+| [彩云天气去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广、弹窗、悬浮窗、底栏天气助手和工具箱入口，移除我的页面广告横幅。 | RuCu6 |
+| [得物去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%97%E7%89%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、搜索词填充、热搜榜、猜你想搜、推荐关注、推荐信息流，精简消息中心和我的页面。 | 可莉🅥 |
+| [得间小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%97%E9%97%B4%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、章末广告，移除扉页广告提示、听书界面广告提示、搜索栏填充词。 | 可莉🅥 |
+| [微信公众号去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤微信公众号广告 | RuCu6 |
+| [微信外部链接解锁](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule) | 解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。 | zZPiglet |
+| [微信小程序去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 收录常用小程序的去广告，作者署名在插件内。 | 可莉🅥 |
+| [微博去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤微博广告及去除各部分推广模块 | RuCu6, zmqcherish |
+| [微博轻享版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤轻享版广告，移除各部分推广模块，仅支持到6.6.8版。 | kokoryh |
+| [微博轻享版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E5%8D%9A%E8%BD%BB%E4%BA%AB%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、时间线广告及评论区广告，移除发现页面横幅推广、最常访问、主页访客及热门视频，移除搜索填充词。 | 可莉🅥 |
+| [微脉圈去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E8%84%89%E5%9C%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、聊天页横幅提示及发现页面的横幅广告。 | 可莉🅥 |
+| [快对去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E5%AF%B9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简我的页面。 | 可莉🅥 |
+| [快影去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流推广、横幅推广，移除悬浮部件。 | 可莉🅥 |
+| [快手去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E6%89%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、视频流广告、底栏皮肤、右下角悬浮推广，精简我的页面。 | 可莉🅥 |
+| [快捷搜索](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.sgmodule) | 为Safari提供快速切换搜索引擎的能力，在插件列表中点击此插件上的链接查看使用方法。 | 可莉🅥 |
+| [快看漫画去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮窗、漫画广告、社区广告、各类弹窗，精简顶部标签、我的页面。 | 可莉🅥 |
+| [快递100去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E9%80%92100%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除横幅广告、弹窗广告，精简首页。 | 可莉🅥 |
+| [成分喵去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%88%90%E5%88%86%E5%96%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页推广活动、广告组件请求、移除被查商品购买链接、搜索发现。 | 可莉🅥 |
+| [拦截HTTPDNS](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8B%A6%E6%88%AAHTTPDNS.sgmodule) | 拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。 | 可莉🅥, VirgilClyne |
+| [拼多多去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、底栏多多视频、会场入口、聊天页面精选推荐及推广，精简首页和个人中心。 | ZenmoFeiShi, 可莉🅥 |
+| [挖财记账去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除弹窗广告、推广语横幅和右下角悬浮广告。 | 可莉🅥 |
+| [掌上无畏契约去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%8C%E4%B8%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜。 | 可莉🅥 |
+| [掌上穿越火线去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%8C%E4%B8%8A%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
+| [掌上英雄联盟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%8C%E4%B8%8A%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
+| [掌阅去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%8C%E9%98%85%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告、弹窗广告、朗读音色广告及我的页面广告，移除各页面的横幅轮播图。 | 可莉🅥 |
+| [推栏去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%A8%E6%A0%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤推栏广告 | 可莉🅥 |
+| [收银通商户端去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%94%B6%E9%93%B6%E9%80%9A%E5%95%86%E6%88%B7%E7%AB%AF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和首页推广 | 可莉🅥 |
+| [数字心动去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%95%B0%E5%AD%97%E5%BF%83%E5%8A%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页顶部标签、轮播图、悬浮挂件、热门搜索、信息流广告。 | 可莉🅥 |
+| [斗鱼去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%96%97%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏、首页视频流、首页轮播图广告，移除直播间悬浮窗。 | 可莉🅥 |
+| [无他相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%97%A0%E4%BB%96%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、拍摄页面广告、右小角广告，精简底栏。 | 可莉🅥 |
+| [智慧苏州去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%99%BA%E6%85%A7%E8%8B%8F%E5%B7%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅，移除信息流推广。 | xream |
+| [智联招聘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%99%BA%E8%81%94%E6%8B%9B%E8%81%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、职位页面推广和各类横幅推广。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
+| [最右去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%9C%80%E5%8F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和广告轮播图。 | 可莉🅥 |
+| [有道云笔记去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告及横幅广告。 | 可莉🅥 |
+| [有道翻译官去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%9C%89%E9%81%93%E7%BF%BB%E8%AF%91%E5%AE%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简首页。 | 可莉🅥 |
+| [朴朴超市去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%9C%B4%E6%9C%B4%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除超市去开屏广告，移除首页顶部轮播图和图标广告、启动小弹图广告、首页右下角悬浮动画、搜索热搜榜、搜索建议词、搜索发现热词、订单页面商，精简我的页面。 | kelv1n1n, 可莉🅥 |
+| [比特球云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%AF%94%E7%89%B9%E7%90%83%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和各类横幅推广。 | 可莉🅥 |
+| [汽水音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%B1%BD%E6%B0%B4%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、播放器推广、歌曲详情界面视频推广、播放页面的歌曲视频，精简首页和我的页面。 | 可莉🅥 |
+| [汽车之家去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%B1%BD%E8%BD%A6%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类广告横幅、各类信息流广告、各类弹窗推广、各类浮窗、我的页面广告。 | 可莉🅥 |
+| [波点音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%B3%A2%E7%82%B9%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简应用配置，禁用P2P传输。移除开屏广告、横幅推广、悬浮广告、歌曲广告、商城入口、搜索推广、评论区推广、试听语音提醒。 | 可莉🅥 |
+| [淘宝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%B7%98%E5%AE%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤淘宝开屏广告 | RuCu6 |
+| [淘票票去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%B7%98%E7%A5%A8%E7%A5%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、悬浮广告、轮播图广告和弹窗广告，移除搜索填充词和为你推荐。 | 可莉🅥 |
+| [滴滴出行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅推广，精简底栏和我的页面。 | 可莉🅥 |
+| [滴答出行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%BB%B4%E7%AD%94%E5%87%BA%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告，精简底栏和我的页面。 | 可莉🅥 |
+| [漫客栈去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%BC%AB%E5%AE%A2%E6%A0%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、漫画广告、小说章末广告，精简我的页面。 | 可莉🅥 |
+| [爱企查去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%88%B1%E4%BC%81%E6%9F%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗、首页轮播图、悬浮部件、信息流和搜索填充词。 | 可莉🅥 |
+| [爱奇艺去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%88%B1%E5%A5%87%E8%89%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、焦点图广告、瀑布流广告、搜索页面广告、移除青少年弹窗，精简底栏和我的页面。 | 可莉🅥 |
+| [爱奇艺去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、焦点图广告、瀑布流广告、搜索页面广告、移除青少年弹窗，精简底栏和我的页面。 | 可莉🅥 |
+| [猫耳FM去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%8C%AB%E8%80%B3FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、青少年模式弹窗、首页顶部入口，替换底栏的直播入口为发现入口。 | 可莉🅥 |
+| [王者营地去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%8E%8B%E8%80%85%E8%90%A5%E5%9C%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广、搜索热搜、搜索热榜、底栏推广图标。 | 可莉🅥 |
+| [瑞幸咖啡去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗和各类横幅推广。 | Sliverkiss |
+| [番茄小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除番茄小说开屏广告、移除文章底部和章末广告、移除听书页面广告、移除悬浮部件和底栏多余的福利标签。 | 可莉🅥 |
+| [百度地图去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、出行页面推广、周边页面推广、打车页面推广，精简我的页面。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
+| [百度网页去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除百度搜索移动端网页的首页广告信息流 | Keywos |
+| [百度文库去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、弹窗广告、信息流推广、搜索发现、热门搜索、资料库搜索推荐，精简我的页面。 | 可莉🅥 |
+| [百度网盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页卡片广告、传输页面广告、各类弹窗，精简侧拉抽屉和我的页面。 | 可莉🅥 |
+| [百度网页去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E7%BD%91%E9%A1%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除百度搜索移动端网页的首页广告信息流 | Keywos |
+| [百度贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和帖内广告，精简侧拉抽屉及我的页面。 | 可莉🅥, app2smile |
+| [百度输入法去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%99%BE%E5%BA%A6%E8%BE%93%E5%85%A5%E6%B3%95%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤百度输入法广告，替换个人主页随机图。 | Keywos |
+| [皮皮虾去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%9A%AE%E7%9A%AE%E8%99%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、评论区广告、视频流广告，精简我的页面。 | 可莉🅥 |
+| [盖得排行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%9B%96%E5%BE%97%E6%8E%92%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简首页、移除分类横幅推广、单单返猜你喜欢和编辑精选，移除我的页面推广。 | 可莉🅥 |
+| [省钱快报去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%9C%81%E9%92%B1%E5%BF%AB%E6%8A%A5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、商品推荐，精简我的页面。 | 可莉🅥 |
+| [知乎去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%9F%A5%E4%B9%8E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除各部分广告，移除知乎安全中心跳转，建议卸载知乎重新安装。如遇安全中心页面移除失败的，请积极反馈。 | RuCu6, blackmatrix7 |
+| [知识星球去水印](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83%E5%8E%BB%E6%B0%B4%E5%8D%B0.sgmodule) | 移除内容的水印编号 | 可莉🅥 |
+| [磁力宅播放器去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%A3%81%E5%8A%9B%E5%AE%85%E6%92%AD%E6%94%BE%E5%99%A8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗和文件列表广告。 | 可莉🅥 |
+| [稿定设计去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%A8%BF%E5%AE%9A%E8%AE%BE%E8%AE%A1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除稿定设计开屏广告、首页轮播图和弹窗，移除功能入口角标。 | 可莉🅥 |
+| [米游社去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%B1%B3%E6%B8%B8%E7%A4%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、搜索栏热搜及资讯、青少年模式弹窗。 | 可莉🅥 |
+| [粉笔去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%B2%89%E7%AC%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、悬浮广告、热门搜索，移除底栏皮肤，精简我的页面。 | 可莉🅥 |
+| [纵横小说去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BA%B5%E6%A8%AA%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除纵横小说开屏广告和弹窗 | 可莉🅥 |
+| [网易云音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤网易云音乐广告，并允许自定义界面。 | RuCu6, Keywos |
+| [网易大神去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BD%91%E6%98%93%E5%A4%A7%E7%A5%9E%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告，精简大量冗余的配置文件，精简我的页面。 | 可莉🅥 |
+| [网易新闻去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、置顶新闻、热搜列表和搜索栏填充词。 | RuCu6 |
+| [网易有道词典去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告、信息流广告、旧版翻译页面广告及搜索填充词。 | 可莉🅥 |
+| [网易邮箱大师去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BD%91%E6%98%93%E9%82%AE%E7%AE%B1%E5%A4%A7%E5%B8%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除网易邮箱大师开屏广告、签到任务提醒，精简侧拉抽屉和我的页面。 | 可莉🅥 |
+| [美丽修行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BE%8E%E4%B8%BD%E4%BF%AE%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页广告、发现页广告、美修盒页面广告、下拉广告、弹窗广告、搜索推广、版本更新弹窗及我的页面广告。 | 可莉🅥 |
+| [美图秀秀去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BE%8E%E5%9B%BE%E7%A7%80%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅推广，精简我的页面。 | 可莉🅥 |
+| [美柚去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BE%8E%E6%9F%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗推广和信息流推广，移除青少年模式弹窗和我的页面推广。 | 可莉🅥 |
+| [美颜相机去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BE%8E%E9%A2%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内弹窗，精简首页和我的页面。 | 可莉🅥 |
+| [美食杰去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E7%BE%8E%E9%A3%9F%E6%9D%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告和信息流广告。 | 可莉🅥 |
+| [胖乖生活去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%83%96%E4%B9%96%E7%94%9F%E6%B4%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅轮播图、网格广告、信息流广告、浮窗广告，精简我的页面。 | 可莉🅥 |
+| [脉脉去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%84%89%E8%84%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、横幅推广、相关帖子推荐。 | 可莉🅥 |
+| [腾讯文档去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅推广。 | 可莉🅥 |
+| [腾讯视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤腾讯视频客户端广告，如遇失效，则需要重新安装腾讯视频客户端。由于此插件不再维护，客户端版本高于8.9.40可能会导致此插件失效，请勿升级客户端。 | RuCu6 |
+| [自动加入TestFlight](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.sgmodule) | 自动监控TestFlight名额，一旦有新的名额即刻加入。 | DecoAri, xream |
+| [航旅纵横去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤航旅纵横广告 | 佚名 |
+| [芒果TV去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%8A%92%E6%9E%9CTV%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、播放页广告，精简我的页面。 | 可莉🅥, RuCu6 |
+| [菜鸟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤菜鸟广告 | 小白脸 |
+| [萌娘百科去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%90%8C%E5%A8%98%E7%99%BE%E7%A7%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、首页横幅。 | 可莉🅥 |
+| [萝卜快跑去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%90%9D%E5%8D%9C%E5%BF%AB%E8%B7%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、横幅广告、新用户活动皮肤，保留优惠活动。 | 可莉🅥 |
+| [萤石云视频去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%90%A4%E7%9F%B3%E4%BA%91%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页推广、我的页面推广。 | 可莉🅥 |
+| [薄荷健康去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除记录页大家都在看、移除各类弹窗，移除广场横幅推广，精简代谢中心页面。 | 可莉🅥 |
+| [虎扑去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%99%8E%E6%89%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除虎扑开屏广告、首页顶部推广、我的页面多余模块及各类横幅推广。 | ZenmoFeiShi |
+| [蜻蜓FM去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%9C%BB%E8%9C%93FM%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告、各类相关内容推荐，精简我的页面。 | 可莉🅥 |
+| [触站去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%A7%A6%E7%AB%99%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、各页面横幅推广，移除首页悬浮挂件。 | 可莉🅥 |
+| [豆瓣去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B1%86%E7%93%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各页面信息流广告、首页横幅、搜索填充词。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。 | 可莉🅥 |
+| [豆瓣阅读去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B1%86%E7%93%A3%E9%98%85%E8%AF%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、热门搜索、热搜榜。 | 可莉🅥 |
+| [贝壳找房去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B4%9D%E5%A3%B3%E6%89%BE%E6%88%BF%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告、悬浮广告、信息流推广、我家页面的装修推荐。移除我的页面的专属推荐、游戏入口、钱包入口。 | 可莉🅥 |
+| [财新去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B4%A2%E6%96%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤财新广告 | RuCu6 |
+| [百度贴吧去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B4%B4%E5%90%A7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、信息流广告和帖内广告，精简侧拉抽屉及我的页面。需注意此插件会导致新回复等通知功能不可用，需手动进入消息页点击查看。仅限iOS 15及以上版本系统使用。 | ZenmoFeiShi, 可莉🅥, app2smile |
+| [起点读书去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%B5%B7%E7%82%B9%E8%AF%BB%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除起点读书开屏广告、每日导读、各类弹窗、文末广告、搜索填充词，精简我的页面。 | 可莉🅥 |
+| [转转去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%BD%AC%E8%BD%AC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用内悬浮窗、信息流推广、商品推荐、首页弹窗，精简我的页面。 | 可莉🅥 |
+| [迅雷去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%BF%85%E9%9B%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页横幅广告、左上角广告入口，精简我的页面。 | 可莉🅥 |
+| [配音秀去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%8D%E9%9F%B3%E7%A7%80%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗、横幅、各类关注推荐。 | 可莉🅥 |
+| [酷安去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%B7%E5%AE%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤酷安广告 | RuCu6, 可莉🅥 |
+| [酷我音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类弹窗、悬浮窗、各类横幅广告、信息流广告、歌词评论区广告和播放器界面广告，精简侧边栏。 | 可莉🅥 |
+| [酷狗概念版去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除广告服务模块、播放器广告，精简乐库及搜索页面。 | 可莉🅥 |
+| [酷狗铃声去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%B7%E7%8B%97%E9%93%83%E5%A3%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告，移除歌曲列表、播放器、搜索界面广告，移除悬浮广告和弹窗广告。 | 可莉🅥 |
+| [酷狗音乐去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、应用各类弹窗、各类横幅广告、评论区广告和播放器界面广告。 | 可莉🅥 |
+| [金山文档去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%87%91%E5%B1%B1%E6%96%87%E6%A1%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页横幅推广、表单收集页面推广和我的页面推广。 | 可莉🅥 |
+| [闲鱼去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%97%B2%E9%B1%BC%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、商品信息流广告、关注推荐、搜索栏填充词、首页签到入口及悬浮广告，精简我的页面。 | 可莉🅥 |
+| [阅友去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%98%85%E5%8F%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、弹窗广告和阅读页面广告，移除底栏福利按钮。 | 可莉🅥 |
+| [阿里云盘去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页广告横幅、弹窗和顶部奖励。 | RuCu6 |
+| [随手记去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%9A%8F%E6%89%8B%E8%AE%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、神象云账本内部广告、我的页面广告，移除社区入口。 | 可莉🅥 |
+| [雪球去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%9B%AA%E7%90%83%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各类横幅广告、信息流广告、帖内广告、新用户定向广告、各类弹窗、股票精选推荐、基金精选推荐、聪明的投资者推荐、私募推荐、直播推荐。 | 可莉🅥 |
+| [顺丰速运去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页下拉抽屉、首页推广、应用内悬浮窗、横幅广告，移除主题，精简我的页面。 | 可莉🅥 |
+| [风鸟去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A3%8E%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页信息流和轮播图 | 可莉🅥 |
+| [飞客去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A3%9E%E5%AE%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、首页广告、板块广告、帖内广告和我的页面广告。 | 可莉🅥 |
+| [飞猪旅行去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A3%9E%E7%8C%AA%E6%97%85%E8%A1%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、精简我的页面。 | 可莉🅥 |
+| [香港抖音去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A6%99%E6%B8%AF%E6%8A%96%E9%9F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 精简左右侧边栏、移除底栏切换，其余内容后续再完善。 | 可莉🅥 |
+| [马蜂窝去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A9%AC%E8%9C%82%E7%AA%9D%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除首页信息流广告、商城横幅推广、我的页面弹窗。 | 可莉🅥 |
+| [驾校一点通去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A9%BE%E6%A0%A1%E4%B8%80%E7%82%B9%E9%80%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、各页面广告横幅、弹窗广告，移除社区广告。 | 可莉🅥 |
+| [驾考宝典去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%A9%BE%E8%80%83%E5%AE%9D%E5%85%B8%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 移除开屏广告、横幅广告、悬浮窗广告、社区帖子广告，精简我的页面。 | 可莉🅥 |
+| [高德地图去广告](https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule) | 过滤高德地图开屏广告、各页面推广，精简我的页面。 | RuCu6, kelv1n1n, 可莉🅥 |
 
 ## 官方模块
 
@@ -323,11 +323,11 @@ Surge 去广告 / 净化 / 解锁模块合集，共 305 个模块。
 
 在 Surge 中添加远程模块，填入对应模块的 Raw 链接，格式如下：
 
-https://raw.githubusercontent.com/lzr52o/Surge/master/模块文件名.sgmodule
+https://raw.githubusercontent.com/lzr52o/Surge/master/modules/模块文件名.sgmodule
 
 例如 Line去广告：
 
-https://raw.githubusercontent.com/lzr52o/Surge/master/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule
+https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule
 
 ## 免责声明
 
