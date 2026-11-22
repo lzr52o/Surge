@@ -331,4 +331,4 @@ https://raw.githubusercontent.com/lzr52o/Surge/master/Line%E5%8E%BB%E5%B9%BF%E5%
 
 ## 免责声明
 
-本仓库收录的模块均来自网络公开收集整理，仅供学习交流使用，请在下载后 24 小时内删除；请勿用于商业用途。如有侵权或问题，请联系邮箱 lzr52o@qq.com，我们会尽快处理。
+本仓库收录的模块均来自网络公开收集整理，仅供学习交流使用，请在下载后 24 小时内删除；请勿用于商业用途。如有侵权或问题，请联系 Telegram 私聊机器人 [@ccccccccoBot](https://t.me/ccccccccoBot)，我们会尽快处理。
