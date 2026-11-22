@@ -1,0 +1,14 @@
+#!name=Revenuecat合集By Yu9191
+#!desc=RevenueCat 合集，适配 10.5 及以后软件
+#!author=Yu9191
+#!category=Unlock
+
+[Script]
+Revenuecat=type=http-response,pattern=^https:\/\/(api\.revenuecat\.com|api\.rc-backup\.com)\/.+\/(receipts$|subscribers\/[^/]+$),requires-body=true,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js,script-update-interval=0
+Revenuecat_2=type=http-request,pattern=^https:\/\/(api\.revenuecat\.com|api\.rc-backup\.com)\/.+\/(receipts$|subscribers\/[^/]+$),script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/Revenuecat.js,script-update-interval=0
+
+[Rule]
+URL-REGEX,https://api.lianjiu.fun/app/api/v1/profile,REJECT
+
+[MITM]
+hostname = api.revenuecat.com, api.lianjiu.fun

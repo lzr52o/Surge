@@ -1,0 +1,10 @@
+#!name=BuyiTunes会员解锁[墨鱼版]
+#!desc=BuyiTunes 多合一解锁脚本，2024-01-24
+#!author=@ddgksf2013
+#!category=Unlock
+
+[Script]
+BuyiTunes=type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=true,script-path=https://www.ddgksf2013.top/scripts/buyitunes.vip.js,script-update-interval=0
+
+[MITM]
+hostname = buy.itunes.apple.com

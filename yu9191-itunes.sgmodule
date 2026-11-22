@@ -1,0 +1,10 @@
+#!name=iTunes合集By Yu9191
+#!desc=iTunes 系列解锁合集，2025-02-27
+#!author=@ios151
+#!category=Unlock
+
+[Script]
+iTunes=type=http-response,pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=true,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/iTunes.js,script-update-interval=0
+
+[MITM]
+hostname = buy.itunes.apple.com

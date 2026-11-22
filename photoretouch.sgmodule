@@ -1,0 +1,10 @@
+#!name=PhotoRetouch
+#!desc=Photo Retouch 解锁
+#!author=chxm1023
+#!category=Unlock
+
+[Script]
+PhotoRetouch=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt$,requires-body=true,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/PhotoRetouch.js,script-update-interval=0
+
+[MITM]
+hostname = buy.itunes.apple.com

@@ -1,0 +1,10 @@
+#!name=TouchreTouch
+#!desc=TouchRetouch 消除笔恢复购买，5.2.4
+#!author=WeiGiegie
+#!category=Unlock
+
+[Script]
+Retouch=type=http-response,pattern=^https?:\/\/api.revenuecat.com\/v1\/receipts,requires-body=true,script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/Retouch.js,script-update-interval=0
+
+[MITM]
+hostname = api.revenuecat.com

@@ -1,0 +1,43 @@
+#!name=解锁合集
+#!desc=24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey）
+#!author=合集（NobyDa、yichahucha、Choler、Alex0510 等）
+#!category=Unlock
+
+[Script]
+nf_rating_season=type=http-response,pattern=^https?://ios\.prod\.ftl\.netflix\.com/iosui/warmer/.+type=show-ath,requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating_season.js,script-update-interval=0
+xxysad=type=http-response,pattern=https:\/\/.*\..*\.com\/(vod\/reqplay\/|ucp/index|getGlobalData),requires-body=true,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/xxysad.js,script-update-interval=0
+camscanner=type=http-response,pattern=https:\/\/(api|api-cs)\.intsig\.net\/purchase\/cs\/query_property\?,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/CamScanner.js,script-update-interval=0
+douyin=type=http-response,pattern=^https?:\/\/aweme\.snssdk\.com\/aweme\/v[12]\/((|follow\/|nearby\/)feed|aweme\/post|hot\/search\/video\/list|mix\/aweme|aweme\/detail)\/\?,requires-body=true,script-path=https://Choler.github.io/Surge/Script/douyin.js,script-update-interval=0
+jd_price=type=http-response,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js,script-update-interval=0
+jibjab=type=http-response,pattern=https:\/\/origin-prod-phoenix\.jibjab\.com\/v1\/user,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/jibjab.js,script-update-interval=0
+kuwo=type=http-response,pattern=^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice),requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Kuwo.js,script-update-interval=0
+luqi=type=http-response,pattern=^https:\/\/www\.luqijianggushi\.com\/api\/v2\/user\/get,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/luqi.js,script-update-interval=0
+nf_rating_req=type=http-request,pattern=^https?://ios(-.*)?\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js,script-update-interval=0
+nf_rating=type=http-response,pattern=^https?://ios(-.*)?\.prod\.ftl\.netflix\.com/iosui/user/.+path=%5B%22videos%22%2C%\d+%22%2C%22summary%22%5D,requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/nf_rating.js,script-update-interval=0
+nichi=type=http-response,pattern=https?:\/\/m(p|ini-hk)\.bybutter\.com\/mood\/(official-templates|privileges),requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/NiChi.js,script-update-interval=0
+picsart=type=http-response,pattern=^https:\/\/api\.(picsart|meiease)\.c(n|om)\/shop\/subscription\/(validate|apple\/purchases),requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/PicsArt.js,script-update-interval=0
+rrsp=type=http-response,pattern=^https?:\/\/api\.rr\.tv\/v\dplus\/index\/channel,requires-body=true,script-path=https://Choler.github.io/Surge/Script/rrsp.js,script-update-interval=0
+super=type=http-response,pattern=^https?://.*\.(snssdk|pipix.com)\.com/bds/(feed/stream|comment/cell_reply|cell/cell_comment|cell/detail|ward/list|user/favorite|user/cell_coment|user/cell_userfeed|user/publish_list),requires-body=true,script-path=https://raw.githubusercontent.com/Liquor030/Sub_Ruleset/master/Script/Super.js,script-update-interval=0
+tb_price=type=http-response,pattern=^http://.+/amdc/mobileDispatch,requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,script-update-interval=0
+tb_price_2=type=http-response,pattern=^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail,requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js,script-update-interval=0
+tncj=type=http-response,pattern=^https://tncj.hortorgames.com/chicken/fight/(answer|findQuiz),requires-body=true,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/tncj/tncj.min.js,script-update-interval=0
+vivavideo=type=http-response,pattern=^https:\/\/api-use\.intsvs\.com\/api\/rest\/u\/vipVerifyReceipt,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/vivavideo.js,script-update-interval=0
+vue=type=http-response,pattern=^https:\/\/api\.vuevideo\.net\/api\/v1\/(users\/.+\/profile|subtitle\/prepare),requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/VUE.js,script-update-interval=0
+wb_ad=type=http-response,pattern=^https?://m?api\.weibo\.c(n|om)/2/(statuses/(unread|extend|positives/get|(friends|video)(/|_)(mix)?timeline)|stories/(video_stream|home_list)|(groups|fangle)/timeline|profile/statuses|comments/build_comments|photo/recommend_list|service/picfeed|searchall|cardlist|page|!/(photos/pic_recommend_status|live/media_homelist)|video/tiny_stream_video_list|photo/info|remind/unread_count),requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/wb_ad.js,script-update-interval=0
+wb_launch=type=http-response,pattern=^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua),requires-body=true,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/wb_launch.js,script-update-interval=0
+wnyd=type=http-response,pattern=^https?:\/\/p\.du\.163\.com\/gain\/readtime\/info\.json,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/wnyd.js,script-update-interval=0
+wps=type=http-response,pattern=^https?:\/\/[a-z-]*account\.wps\.c(n|om)(:\d+|)\/api\/users,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/Wps.js,script-update-interval=0
+xjsp=type=http-response,pattern=^https?:\/\/.+?\.(pipi|fuli|xiang(jiao|xiang))apps\.com\/(ucp\/index|getGlobalData|(\/|\/)vod\/reqplay\/),requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/xjsp.js,script-update-interval=0
+ydybj=type=http-response,pattern=^https:\/\/note\.youdao\.com\/yws\/(mapi\/payment|api\/self),requires-body=true,script-path=https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/ydybj.js,script-update-interval=0
+zymh=type=http-response,pattern=^https:\/\/apigate\.kaimanhua\.com\/(zymk-getuserinfo-api\/v1\/getuserinfo|zymk-userpurchased-api\/v1\/userpurchased\/paychapters)\/,requires-body=true,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/Zymh.js,script-update-interval=0
+
+[Rule]
+URL-REGEX,^https?:\/\/(api.*\.amemv|aweme\.snssdk)\.com\/api\/ad\/,REJECT
+URL-REGEX,^https?:\/\/api\.rr\.tv\/(?:ad\/getAll$|storage/business/rootName/app/homePage),REJECT
+
+[URL Rewrite]
+^https?:\/\/api.*\.amemv\.com\/aweme\/v\d\/ https://aweme.snssdk.com/aweme/v1/ header
+app_name=super&([\S]*)aid=\d+ app_name=super_pro&$1aid=1412 header
+
+[MITM]
+hostname = api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, trade-acs.m.taobao.com, api.m.jd.com, ios-*.prod.ftl.netflix.com, ios.prod.ftl.netflix.com, *.xiaoxiao*.com, ap*.intsig.net, api*.amemv.com, aweme.snssdk.com, origin-prod-phoenix.jibjab.com, vip1.kuwo.cn, www.luqijianggushi.com, m*.bybutter.com, api.picsart.c*, api.meiease.c*, api.rr.tv, *.snssdk.com, *pipix.com, tncj.hortorgames.com, api-use.intsvs.com, api.vuevideo.net, p.du.163.com, *account.wps.cn, *account.wps.com, ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, apple.xiangjiaoapps.com, *.xiangxiangapps.com, *.pipiapps.com, note.youdao.com, apigate.kaimanhua.com

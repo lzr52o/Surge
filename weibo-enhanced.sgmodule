@@ -1,0 +1,15 @@
+#!name=微博净化[墨鱼版]
+#!desc=微博去广告净化，V0.1.53（2026-10-19）
+#!author=@ddgksf2013
+#!category=AdBlock
+
+[Script]
+weibo_json=type=http-response,pattern=^https://api\.weibo\.cn/__qx_weibo_settings__/(?:api/config)?(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+weibo_json_2=type=http-response,pattern=^https://api\.weibo\.cn/__qx_weibo_settings__/api/(?:save|reset)(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+weibo_json_3=type=http-response,pattern=^https?://api\.weibo\.cn(?:/2/statuses/container_timeline_hot|/2/statuses/container_positive|/2/guest/container_timeline_hot|/2/statuses/container_timeline_unread|/2/statuses/container_timeline|/2/live/media_homelist|/2/remind/hometab_dot|/2/remind/unread_count|/2/statuses/container_detail|/2/statuses/container_detail_comment|/2/statuses/container_detail_forward|/2/statuses/variety|/2/comments/build_comments|/2/search/finder|/2/search/container_timeline|/2/search/container_discover|/2/!/was/finder/searchbarchange|/2/cardlist|/2/flowpage|/2/searchall|/2/profile/me|/2/profile/container_timeline|/2/video/flow_stream|/2/video/flow_stream_cache|/2/push/daily|/2/push/active|/2/push/info|/2/guest/push_active|/2/groups/allgroups/v2|/2/client/abserver_list|/2/checkin/show|/2/video/remind_info|/2/video/home_channels)(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+weibo_json_4=type=http-response,pattern=^https?://bootpreload\.uve\.weibo\.com(?:/v2/ad/preload)(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+weibo_json_5=type=http-response,pattern=^https?://bootrealtime\.uve\.weibo\.com(?:/v3/ad/realtime)(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+weibo_json_6=type=http-response,pattern=^https?://wbapp\.uve\.weibo\.com(?:/wbapplua/wbpullad\.lua)(?=[?#]|$),requires-body=true,script-path=https://www.ddgksf2013.top/scripts/weibo_json.js,script-update-interval=0
+
+[MITM]
+hostname = api.weibo.cn, bootpreload.uve.weibo.com, bootrealtime.uve.weibo.com, wbapp.uve.weibo.com
