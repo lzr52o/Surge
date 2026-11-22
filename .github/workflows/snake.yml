@@ -17,6 +17,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v5
 
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: lzr52o
+          games: 'pacman'
+          hide_month_labels: 'false'
+
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -24,13 +31,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: lzr52o
-          games: 'pacman'
-          hide_month_labels: 'false'
 
       - name: Generate 3D Contrib
         uses: yoshi389111/github-profile-3d-contrib@latest
