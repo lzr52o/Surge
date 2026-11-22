@@ -8,36 +8,24 @@
 
 ![模块](https://img.shields.io/badge/模块-305-blue) ![Surge](https://img.shields.io/badge/Surge-模块合集-orange) ![更新](https://img.shields.io/badge/更新-2026--11--23-green)
 
-点击模块名即可打开订阅链接
+点击模块名即可打开订阅链接，点击分类可展开查看
 
 </div>
 
 ## 📋 模块列表
 
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="60%">
-  <col width="15%">
-</colgroup>
+<details>
+<summary>🧹 去广告（198 个）</summary>
+
+<table width="100%">
 <thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
 <tbody>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Line去广告</a></td><td>移除Line各类广告</td><td>jkgtw</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/bilibili-ads.sgmodule">哔哩哔哩广告净化[墨鱼版]</a></td><td>B站去广告净化，V2.0.138（2025-07-18）</td><td>@ddgksf2013</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/buyitunes.sgmodule">BuyiTunes会员解锁[墨鱼版]</a></td><td>BuyiTunes 多合一解锁脚本，2024-01-24</td><td>@ddgksf2013</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/chxm-collections.sgmodule">App解锁合集</a></td><td>App 解锁合集，叮当猫 Collections.conf 转 Surge，2026-04-26</td><td>@ddm1023</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/photoretouch.sgmodule">PhotoRetouch</a></td><td>Photo Retouch 解锁</td><td>chxm1023</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/startup-ads.sgmodule">墨鱼去开屏V2.0</a></td><td>400余应用去开屏广告，v2.0.648（2026-08-29）</td><td>@ddgksf2013</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/touchretouch.sgmodule">TouchreTouch</a></td><td>TouchRetouch 消除笔恢复购买，5.2.4</td><td>WeiGiegie</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/unlock-collection.sgmodule">解锁合集</a></td><td>24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey）</td><td>合集（NobyDa、yichahucha、Choler、Alex0510 等）</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/weibo-enhanced.sgmodule">微博净化[墨鱼版]</a></td><td>微博去广告净化，V0.1.53（2026-10-19）</td><td>@ddgksf2013</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-itunes.sgmodule">iTunes合集By Yu9191</a></td><td>iTunes 系列解锁合集，2025-02-27</td><td>@ios151</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-revenuecat.sgmodule">Revenuecat合集By Yu9191</a></td><td>RevenueCat 合集，适配 10.5 及以后软件</td><td>Yu9191</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">一刻相册去广告</a></td><td>移除开屏广告、横幅广告和弹窗推广。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/boxjs.sgmodule">BoxJs</a></td><td>BoxJs 配置工具</td><td>chavyleung</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/reddit-ads.sgmodule">Reddit增强[墨鱼版]</a></td><td>去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，去除NSFW遮罩，伪装Premium</td><td>@ddgksf2013</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/tieba-ads.sgmodule">贴吧去广告</a></td><td>开屏广告；推荐和吧内帖子列表的直播及广告；详情页直播/关联商品/广告；看图模式广告</td><td>app2smile</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.sgmodule">1.1.1.1配置管理</a></td><td>提取1.1.1.1应用的配置并生成Loon可用的节点配置，点击下面署名前往配置1.1.1.1的BoxJs配置。</td><td>VirgilClyne, I-am-R-E</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">12306去广告</a></td><td>过滤12306应用内广告及开屏广告</td><td>RuCu6</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/123%E4%BA%91%E7%9B%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">123云盘去广告</a></td><td>移除开屏广告、应用内横幅广告。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/360%E6%91%84%E5%83%8F%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">360摄像机去广告</a></td><td>移除开屏广告、首页推广、底栏商城入口及我的页面推广。</td><td>可莉🅥</td></tr>
@@ -45,16 +33,10 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/555%E7%94%B5%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">555电影去广告</a></td><td>移除开屏广告和各类横幅广告，支持iPadOS。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/B612%E5%92%94%E5%8F%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">B612咔叽去广告</a></td><td>移除开屏广告、弹窗及拍摄页面底部横幅广告。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/CC%E7%9B%B4%E6%92%AD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">CC直播去广告</a></td><td>移除信息流推广和横幅，精简顶部标签。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/DNS%E9%98%B2%E6%B3%84%E9%9C%B2.sgmodule">DNS防泄露</a></td><td>专为小白设计的DNS防泄露</td><td>非正常人类研究中心</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/DREAME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">DREAME去广告</a></td><td>移除开屏广告、首页大图推广、横幅推广，精简底栏，阻止桌面图标替换。仅支持2.5.1版。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Dlabel%E4%BA%91%E6%A0%87%E7%AD%BE%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Dlabel云标签去广告</a></td><td>移除开屏广告及首页横幅。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/ECOVACS%20HOME%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">ECOVACS HOME去广告</a></td><td>移除横幅推广，精简底栏。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.sgmodule">Fileball网盘挂载</a></td><td>支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下方署名查看使用方法。</td><td>小白脸</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Foodie%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Foodie去广告</a></td><td>移除开屏广告和弹窗广告</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E6%90%9C%E7%B4%A2%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule">Google搜索重定向</a></td><td>将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule">Google搜索重定向</a></td><td>将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/HTTPDNS%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule">HTTPDNS拦截器</a></td><td>拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。</td><td>可莉🅥, VirgilClyne</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/IPA%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%8A%A9%E6%89%8B.sgmodule">IPA工具箱助手</a></td><td>这是IPA工具箱的辅助插件，用于下载IPA包和应用降级。IPA工具箱是运行在Scripting应用中的脚本，需要购买Scripting的Pro版本才能运行。</td><td>小白脸</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/IT%E4%B9%8B%E5%AE%B6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">IT之家去广告</a></td><td>过滤IT之家信息流广告和文末广告，自定义移除置顶和轮播图，自定义移除项需在插件配置。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Jump%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Jump去广告</a></td><td>移除Jump开屏广告</td><td>MoonYuki</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/KOOK%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">KOOK去广告</a></td><td>移除开屏广告、房间横幅推广、精简我的页面，移除底栏商城入口。</td><td>可莉🅥</td></tr>
@@ -66,17 +48,11 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Roborock%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Roborock去广告</a></td><td>移除横幅、活动推广。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Soul%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Soul去广告</a></td><td>移除开屏广告、移除话题页面热Soul话题、移除评论区礼物榜、移除更新提示、移除青少年弹窗、移除我的页面推广、移除悬浮部件。</td><td>ZenmoFeiShi, RuCu6, 可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Spotify去广告</a></td><td>移除播放广告，恢复歌手和专辑列表的正常展示。修改插件自定义配置项需要重新登陆方可生效。</td><td>001ProMax</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E5%A2%9E%E5%BC%BA.sgmodule">Spotify歌词增强</a></td><td>将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。</td><td>VirgilClyne</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.sgmodule">Spotify歌词增强</a></td><td>将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。</td><td>VirgilClyne</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TeraBox%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">TeraBox去广告</a></td><td>移除开屏广告、应用内悬浮窗、弹窗广告及横幅广告。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule">TikTok解锁</a></td><td>移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。</td><td>Keywos</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TubeMax%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">TubeMax去广告</a></td><td>过滤TubeMax广告</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Uki%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Uki去广告</a></td><td>移除开屏广告、应用内悬浮窗，各类横幅、信息流广告、搜索填充词、我的页面广告。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.sgmodule">VVebo时间线修复</a></td><td>修复失效的用户时间线和我的页面。使用此插件前需要禁用微博去广告插件，避免插件冲突导致失效。</td><td>suiyuran, androidcn</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule">WPS每日签到</a></td><td>WPS每日签到并兑换会员，需要进入此插件的主页链接，阅读使用说明操作。</td><td>小白脸</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YY%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">YY去广告</a></td><td>移除开屏广告、应用内弹窗，精简底栏和我的页面。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YY%E8%AF%AD%E9%9F%B3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">YY语音去广告</a></td><td>移除开屏广告、应用内弹窗、任务推广、频道横幅推广，精简广场顶部标签。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YouTube%E7%BF%BB%E8%AF%91.sgmodule">YouTube双语翻译</a></td><td>字幕增强及双语翻译，支持Youtube Music歌词翻译。此插件需要置于YouTube去广告插件之下，且和YouTube去广告插件的歌词翻译冲突，不支持tvOS设备。</td><td>VirgilClyne</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/ZAKER%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">ZAKER去广告</a></td><td>移除开屏广告、置顶轮播图广告和文末广告。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%80%E7%94%9C%E7%9B%B8%E6%9C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">一甜相机去广告</a></td><td>移除开屏广告、悬浮广告及图片选择器横幅广告。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">七猫小说去广告</a></td><td>移除大部分七猫小说广告，但受限于七猫小说自身对MitM和VPN状态的检测，部分页面广告无法移除。</td><td>可莉🅥</td></tr>
@@ -87,12 +63,10 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%B0%E5%B7%A2%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">丰巢去广告</a></td><td>移除弹窗，精简首页和生活服务。此插件需要IPA签名方可使用，App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%90%E6%92%AD%E6%8A%95%E5%B1%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">乐播投屏去广告</a></td><td>移除开屏广告、首页横幅推广、全网全网热投榜，移除我的页面横幅推广。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%A6%E6%97%97%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">书旗小说去广告</a></td><td>移除书城横幅广告、听书广告、阅读广告、章末推荐、福利入口、悬浮窗、推荐搜索词，精简我的页面。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule">书香门第签到</a></td><td>请配置账号密码，默认签到时间为晚上0点0分。</td><td>bgcode🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%91%E9%97%AA%E4%BB%98%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">云闪付去广告</a></td><td>过滤银联云闪付广告，需要IPA签名注入方可使用，仅支持云闪付10.1.2版。App Store用户请勿使用此插件，务必点击下方主页链接查看详细教程。</td><td>RuCu6</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%91%E9%B2%B8%E6%99%BA%E8%83%BD%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">云鲸智能去广告</a></td><td>移除开屏广告、横幅推广，禁用商城。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">京东去广告</a></td><td>移除京东开屏广告，精简我的页面产品推广。</td><td>RuCu6, Maasea</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">京东外卖去广告</a></td><td>移除首页推广、点评页面非美食内容、购物车及我的页面推荐、搜索发现、搜索榜单，精简我的页面。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.sgmodule">京东比价</a></td><td>首次使用需安装慢慢买应用，之后点击进入[我的]页面以捕获Cookie，捕获成功后方可在商品详情页面查看比价内容。</td><td>wf021325, githubdulong, mw418</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BB%80%E4%B9%88%E5%80%BC%E5%BE%97%E4%B9%B0%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">什么值得买去广告</a></td><td>移除开屏广告、信息流广告、各类横幅广告、搜索页广告、文章内广告，移除活动皮肤、精简我的页面。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BC%98%E9%85%B7%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">优酷视频去广告</a></td><td>移除开屏广告、视频广告、信息流广告。其余广告由于请求已加密，故无法移除。</td><td>可莉🅥, RuCu6</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%81%A5%E5%BA%B7160%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">健康160去广告</a></td><td>移除开屏广告、应用内悬浮窗、弹窗广告、横幅广告，精简我的页面。</td><td>可莉🅥</td></tr>
@@ -125,13 +99,11 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">小象超市去广告</a></td><td>移除开屏广告、应用内弹窗、猜你想买、横幅推广和悬浮窗。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B0%8F%E9%BB%91%E7%9B%92%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">小黑盒去广告</a></td><td>移除开屏广告和热点板块信息流广告</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B8%86%E4%B9%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">帆书去广告</a></td><td>移除弹窗和会员任务，精简首页、听书页面、课程菜单和我的页面。</td><td>Yuheng0101</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule">广告平台拦截器</a></td><td>此插件是所有去广告插件的基础，只针对广告平台处理。你依然需要安装其他去广告插件来搭配使用，并确保此插件始终排序在顶部。 支持拦截腾讯、字节跳动、快手、百度、邑盟、倍孜、艾狄墨搏、袤博、极光、个推、友盟、阿里巴巴、阿里妈妈、阿里百川、超级汇川、优比客思、秒针、网易、美团、小米、京东、天目、讯飞、泛连、锐讯灵通、聚次方、美数、嗨量、维快网络、变现猫、章鱼、分秒、泰之菩、翼信、快易、数萤技术、方麟、益起、上量优选、新义互联、腾云天下、布里奇、塔酷、丽声、推啊、旺脉、新度博望、新多广告、快易科技、封狐信息、互裕科技、旺脉信息、佳量动力、享点科技、游昆信息、小川科技、旺脉科技、萃弈、泛为、米漫、易量跃动、秒针、贵士移动、星讯、倍业科技、创聚科技、硬核聚视、数因科技、芒拓网络、上海领页、神蓍科技、Google、SupersonicAds、APPSAD、Adjust、Sigmob、TradPlus、Fancy、MedPro、AppLovin、Unity3D、Tapjoy、Liftoff、Vungle、Moloco、Smadex、Tapad、Appier、InMobi、AppsFlyer、AppLovin、Moloco、RayJump、RixEngine、Amazon等广告平台的广告请求，更适合iOS平台的应用。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BA%93%E8%A1%97%E5%8C%BA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">库街区去广告</a></td><td>移除开屏广告、弹窗广告、搜索页面的热搜及话题热榜。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BD%A9%E4%BA%91%E5%A4%A9%E6%B0%94%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">彩云天气去广告</a></td><td>移除首页推广、弹窗、悬浮窗、底栏天气助手和工具箱入口，移除我的页面广告横幅。</td><td>RuCu6</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%97%E7%89%A9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">得物去广告</a></td><td>移除开屏广告、弹窗、搜索词填充、热搜榜、猜你想搜、推荐关注、推荐信息流，精简消息中心和我的页面。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%97%E9%97%B4%E5%B0%8F%E8%AF%B4%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">得间小说去广告</a></td><td>移除开屏广告、章末广告，移除扉页广告提示、听书界面广告提示、搜索栏填充词。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">微信公众号去广告</a></td><td>过滤微信公众号广告</td><td>RuCu6</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule">微信外部链接解锁</a></td><td>解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。</td><td>zZPiglet</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">微信小程序去广告</a></td><td>收录常用小程序的去广告，作者署名在插件内。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E5%8D%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">微博去广告</a></td><td>过滤微博广告及去除各部分推广模块</td><td>RuCu6, zmqcherish</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E5%8D%9A%E5%9B%BD%E9%99%85%E7%89%88%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">微博轻享版去广告</a></td><td>过滤轻享版广告，移除各部分推广模块，仅支持到6.6.8版。</td><td>kokoryh</td></tr>
@@ -140,11 +112,9 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E5%AF%B9%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">快对去广告</a></td><td>移除开屏广告、横幅推广，精简我的页面。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E5%BD%B1%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">快影去广告</a></td><td>移除开屏广告、信息流推广、横幅推广，移除悬浮部件。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E6%89%8B%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">快手去广告</a></td><td>移除开屏广告、视频流广告、底栏皮肤、右下角悬浮推广，精简我的页面。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.sgmodule">快捷搜索</a></td><td>为Safari提供快速切换搜索引擎的能力，在插件列表中点击此插件上的链接查看使用方法。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E7%9C%8B%E6%BC%AB%E7%94%BB%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">快看漫画去广告</a></td><td>移除开屏广告、悬浮窗、漫画广告、社区广告、各类弹窗，精简顶部标签、我的页面。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E9%80%92100%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">快递100去广告</a></td><td>移除横幅广告、弹窗广告，精简首页。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%88%90%E5%88%86%E5%96%B5%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">成分喵去广告</a></td><td>移除首页推广活动、广告组件请求、移除被查商品购买链接、搜索发现。</td><td>可莉🅥</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8B%A6%E6%88%AAHTTPDNS.sgmodule">拦截HTTPDNS</a></td><td>拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。</td><td>可莉🅥, VirgilClyne</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">拼多多去广告</a></td><td>移除开屏广告、底栏多多视频、会场入口、聊天页面精选推荐及推广，精简首页和个人中心。</td><td>ZenmoFeiShi, 可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8C%96%E8%B4%A2%E8%AE%B0%E8%B4%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">挖财记账去广告</a></td><td>移除弹窗广告、推广语横幅和右下角悬浮广告。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8E%8C%E4%B8%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">掌上无畏契约去广告</a></td><td>移除开屏广告、弹窗推广、搜索热搜、搜索热榜。</td><td>可莉🅥</td></tr>
@@ -209,7 +179,6 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%84%89%E8%84%89%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">脉脉去广告</a></td><td>移除开屏广告、信息流广告、横幅推广、相关帖子推荐。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%85%BE%E8%AE%AF%E6%96%87%E6%A1%A3%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">腾讯文档去广告</a></td><td>移除开屏广告、首页横幅推广。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">腾讯视频去广告</a></td><td>过滤腾讯视频客户端广告，如遇失效，则需要重新安装腾讯视频客户端。由于此插件不再维护，客户端版本高于8.9.40可能会导致此插件失效，请勿升级客户端。</td><td>RuCu6</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.sgmodule">自动加入TestFlight</a></td><td>自动监控TestFlight名额，一旦有新的名额即刻加入。</td><td>DecoAri, xream</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%88%AA%E6%97%85%E7%BA%B5%E6%A8%AA%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">航旅纵横去广告</a></td><td>过滤航旅纵横广告</td><td>佚名</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%8A%92%E6%9E%9CTV%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">芒果TV去广告</a></td><td>移除开屏广告、信息流广告、播放页广告，精简我的页面。</td><td>可莉🅥, RuCu6</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%8F%9C%E9%B8%9F%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">菜鸟去广告</a></td><td>过滤菜鸟广告</td><td>小白脸</td></tr>
@@ -252,14 +221,107 @@
 </tbody>
 </table>
 
-## 📦 官方模块
+</details>
 
-<table>
-<colgroup>
-  <col width="25%">
-  <col width="60%">
-  <col width="15%">
-</colgroup>
+<details>
+<summary>🔓 解锁（5 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/buyitunes.sgmodule">BuyiTunes会员解锁[墨鱼版]</a></td><td>BuyiTunes 多合一解锁脚本，2024-01-24</td><td>@ddgksf2013</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/chxm-collections.sgmodule">App解锁合集</a></td><td>App 解锁合集，叮当猫 Collections.conf 转 Surge，2026-04-26</td><td>@ddm1023</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/unlock-collection.sgmodule">解锁合集</a></td><td>24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey）</td><td>合集（NobyDa、yichahucha、Choler、Alex0510 等）</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule">TikTok解锁</a></td><td>移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。</td><td>Keywos</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule">微信外部链接解锁</a></td><td>解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。</td><td>zZPiglet</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>✨ 增强（3 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/reddit-ads.sgmodule">Reddit增强[墨鱼版]</a></td><td>去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，去除NSFW遮罩，伪装Premium</td><td>@ddgksf2013</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E5%A2%9E%E5%BC%BA.sgmodule">Spotify歌词增强</a></td><td>将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。</td><td>VirgilClyne</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Spotify%E6%AD%8C%E8%AF%8D%E7%BF%BB%E8%AF%91.sgmodule">Spotify歌词增强</a></td><td>将Spotify的外语歌词翻译为简体中文，并提供双语翻译支持。</td><td>VirgilClyne</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>📅 签到（2 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/WPS%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule">WPS每日签到</a></td><td>WPS每日签到并兑换会员，需要进入此插件的主页链接，阅读使用说明操作。</td><td>小白脸</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B9%A6%E9%A6%99%E9%97%A8%E7%AC%AC%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0.sgmodule">书香门第签到</a></td><td>请配置账号密码，默认签到时间为晚上0点0分。</td><td>bgcode🅥</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>🌐 翻译（1 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/YouTube%E7%BF%BB%E8%AF%91.sgmodule">YouTube双语翻译</a></td><td>字幕增强及双语翻译，支持Youtube Music歌词翻译。此插件需要置于YouTube去广告插件之下，且和YouTube去广告插件的歌词翻译冲突，不支持tvOS设备。</td><td>VirgilClyne</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>🛠️ 工具（14 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/boxjs.sgmodule">BoxJs</a></td><td>BoxJs 配置工具</td><td>chavyleung</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.sgmodule">1.1.1.1配置管理</a></td><td>提取1.1.1.1应用的配置并生成Loon可用的节点配置，点击下面署名前往配置1.1.1.1的BoxJs配置。</td><td>VirgilClyne, I-am-R-E</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/DNS%E9%98%B2%E6%B3%84%E9%9C%B2.sgmodule">DNS防泄露</a></td><td>专为小白设计的DNS防泄露</td><td>非正常人类研究中心</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Fileball%E7%BD%91%E7%9B%98%E6%8C%82%E8%BD%BD.sgmodule">Fileball网盘挂载</a></td><td>支持挂载阿里云盘、夸克网盘和PikPak网盘，点击下方署名查看使用方法。</td><td>小白脸</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E6%90%9C%E7%B4%A2%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule">Google搜索重定向</a></td><td>将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。</td><td>可莉🅥</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Google%E9%87%8D%E5%AE%9A%E5%90%91.sgmodule">Google搜索重定向</a></td><td>将Google搜索重定向至.com域名，如遇频繁跳转请禁用本插件。</td><td>可莉🅥</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/HTTPDNS%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule">HTTPDNS拦截器</a></td><td>拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。</td><td>可莉🅥, VirgilClyne</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/IPA%E5%B7%A5%E5%85%B7%E7%AE%B1%E5%8A%A9%E6%89%8B.sgmodule">IPA工具箱助手</a></td><td>这是IPA工具箱的辅助插件，用于下载IPA包和应用降级。IPA工具箱是运行在Scripting应用中的脚本，需要购买Scripting的Pro版本才能运行。</td><td>小白脸</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/VVebo%E6%97%B6%E9%97%B4%E7%BA%BF%E4%BF%AE%E5%A4%8D.sgmodule">VVebo时间线修复</a></td><td>修复失效的用户时间线和我的页面。使用此插件前需要禁用微博去广告插件，避免插件冲突导致失效。</td><td>suiyuran, androidcn</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%BA%AC%E4%B8%9C%E6%AF%94%E4%BB%B7.sgmodule">京东比价</a></td><td>首次使用需安装慢慢买应用，之后点击进入[我的]页面以捕获Cookie，捕获成功后方可在商品详情页面查看比价内容。</td><td>wf021325, githubdulong, mw418</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%B9%BF%E5%91%8A%E5%B9%B3%E5%8F%B0%E6%8B%A6%E6%88%AA%E5%99%A8.sgmodule">广告平台拦截器</a></td><td>此插件是所有去广告插件的基础，只针对广告平台处理。你依然需要安装其他去广告插件来搭配使用，并确保此插件始终排序在顶部。 支持拦截腾讯、字节跳动、快手、百度、邑盟、倍孜、艾狄墨搏、袤博、极光、个推、友盟、阿里巴巴、阿里妈妈、阿里百川、超级汇川、优比客思、秒针、网易、美团、小米、京东、天目、讯飞、泛连、锐讯灵通、聚次方、美数、嗨量、维快网络、变现猫、章鱼、分秒、泰之菩、翼信、快易、数萤技术、方麟、益起、上量优选、新义互联、腾云天下、布里奇、塔酷、丽声、推啊、旺脉、新度博望、新多广告、快易科技、封狐信息、互裕科技、旺脉信息、佳量动力、享点科技、游昆信息、小川科技、旺脉科技、萃弈、泛为、米漫、易量跃动、秒针、贵士移动、星讯、倍业科技、创聚科技、硬核聚视、数因科技、芒拓网络、上海领页、神蓍科技、Google、SupersonicAds、APPSAD、Adjust、Sigmob、TradPlus、Fancy、MedPro、AppLovin、Unity3D、Tapjoy、Liftoff、Vungle、Moloco、Smadex、Tapad、Appier、InMobi、AppsFlyer、AppLovin、Moloco、RayJump、RixEngine、Amazon等广告平台的广告请求，更适合iOS平台的应用。</td><td>可莉🅥</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BF%AB%E6%8D%B7%E6%90%9C%E7%B4%A2.sgmodule">快捷搜索</a></td><td>为Safari提供快速切换搜索引擎的能力，在插件列表中点击此插件上的链接查看使用方法。</td><td>可莉🅥</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E6%8B%A6%E6%88%AAHTTPDNS.sgmodule">拦截HTTPDNS</a></td><td>拦截常见的HTTPDNS服务，以确保这些请求都能够在Loon的DNS框架下工作。</td><td>可莉🅥, VirgilClyne</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E8%87%AA%E5%8A%A8%E5%8A%A0%E5%85%A5TF.sgmodule">自动加入TestFlight</a></td><td>自动监控TestFlight名额，一旦有新的名额即刻加入。</td><td>DecoAri, xream</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>📦 其他（4 个）</summary>
+
+<table width="100%">
+<thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
+<tbody>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/photoretouch.sgmodule">PhotoRetouch</a></td><td>Photo Retouch 解锁</td><td>chxm1023</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/touchretouch.sgmodule">TouchreTouch</a></td><td>TouchRetouch 消除笔恢复购买，5.2.4</td><td>WeiGiegie</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-itunes.sgmodule">iTunes合集By Yu9191</a></td><td>iTunes 系列解锁合集，2025-02-27</td><td>@ios151</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/yu9191-revenuecat.sgmodule">Revenuecat合集By Yu9191</a></td><td>RevenueCat 合集，适配 10.5 及以后软件</td><td>Yu9191</td></tr>
+</tbody>
+</table>
+
+</details>
+
+<details>
+<summary>📦 官方模块（78 个）</summary>
+
+<table width="100%">
 <thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
 <tbody>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/Official/1.1.1.1%E9%85%8D%E7%BD%AE%E7%AE%A1%E7%90%86.official.sgmodule">☁️ Cloudflare: 1️⃣ 1.1.1.1 with WARP</a></td><td>WARP检测面板与节点提取</td><td>VirgilClyne &amp; R·E</td></tr>
@@ -342,6 +404,8 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/Official/%F0%9F%8D%9F%20%E9%80%9A%E7%94%A8%E6%A8%A1%E5%9D%97.official.sgmodule">🍟 Fries: 🌐 General Enhanced</a></td><td>(📱 iOS版) 1.添加跳过代理部分段内容 2.添加返回真实IP段内容 3.添加不可MitM的域名，防止打断连接</td><td>VirgilClyne</td></tr>
 </tbody>
 </table>
+
+</details>
 
 ## 使用方法
 
