@@ -1,3 +1,5 @@
+![Surge 模块合集](header.png)
+
 # Surge
 
 Surge 去广告 / 净化 / 解锁模块合集，共 305 个模块。
