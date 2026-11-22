@@ -1,0 +1,10 @@
+#!name=BoxJs
+#!desc=BoxJs 配置工具
+#!author=chavyleung
+#!category=Tools
+
+[Script]
+BoxJs=type=http-response,pattern=^https?:\/\/(.+\.)?boxjs\.(com|net),requires-body=true,script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js,script-update-interval=0
+
+[MITM]
+hostname = *.boxjs.com, *.boxjs.net, boxjs.com, boxjs.net

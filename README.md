@@ -18,6 +18,9 @@ Surge 去广告 / 净化 / 解锁模块合集。
 | [iTunes合集](yu9191-itunes.sgmodule) | iTunes 系列解锁合集，2025-02-27 | @ios151 |
 | [RevenueCat合集](yu9191-revenuecat.sgmodule) | RevenueCat 合集，适配 10.5 及以后软件 | Yu9191 |
 | [一刻相册去广告](一刻相册去广告.sgmodule) | 移除开屏广告、横幅广告和弹窗推广 | 可莉 |
+| [BoxJs](boxjs.sgmodule) | BoxJs 配置工具 | chavyleung |
+| [Reddit增强](reddit-ads.sgmodule) | 去除Reddit信息流广告、帖子页面广告、帖子TreeAds、社区信息流广告，去除NSFW遮罩，伪装Premium | @ddgksf2013 |
+| [贴吧去广告](tieba-ads.sgmodule) | 开屏广告；推荐和吧内帖子列表的直播及广告；详情页直播/关联商品/广告；看图模式广告 | app2smile |
 
 ## 使用方法
 
