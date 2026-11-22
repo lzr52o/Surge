@@ -8,7 +8,7 @@
 
 去广告 · 净化 · 解锁
 
-![模块](https://img.shields.io/badge/模块-306-blue) ![Surge](https://img.shields.io/badge/Surge-模块合集-orange) ![更新](https://img.shields.io/badge/更新-2026--11--23-green) ![访问量](https://komarev.com/ghpvc/?username=lzr52o&color=0e75b6&style=flat)
+![模块](https://img.shields.io/badge/模块-305-blue) ![Surge](https://img.shields.io/badge/Surge-模块合集-orange) ![更新](https://img.shields.io/badge/更新-2026--11--23-green) ![访问量](https://komarev.com/ghpvc/?username=lzr52o&color=0e75b6&style=flat)
 
 点击模块名即可打开订阅链接，点击分类可展开查看
 
@@ -18,12 +18,10 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzr52o&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=lzr52o&show_icons=true&theme=radical" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lzr52o&theme=radical" width="49%" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lzr52o&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lzr52o&theme=github-compact)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lzr52o&theme=github-compact" width="100%" />
 
 </div>
 
@@ -239,7 +237,7 @@
 </details>
 
 <details>
-<summary>🔓 解锁（6 个）</summary>
+<summary>🔓 解锁（5 个）</summary>
 
 <table width="100%">
 <thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
@@ -249,7 +247,6 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/unlock-collection.sgmodule">解锁合集</a></td><td>24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey）</td><td>合集（NobyDa、yichahucha、Choler、Alex0510 等）</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule">TikTok解锁</a></td><td>移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。</td><td>Keywos</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule">微信外部链接解锁</a></td><td>解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。</td><td>zZPiglet</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/revenuecat-markbuy.sgmodule">MarkBuy Pro</a></td><td>RevenueCat 多合一解锁，含 MarkBuy premium，原脚本 2024-07-08</td><td>@ddgksf2013</td></tr>
 </tbody>
 </table>
 
