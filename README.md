@@ -8,7 +8,7 @@
 
 去广告 · 净化 · 解锁
 
-![模块](https://img.shields.io/badge/模块-305-blue) ![Surge](https://img.shields.io/badge/Surge-模块合集-orange) ![更新](https://img.shields.io/badge/更新-2026--11--23-green) ![访问量](https://komarev.com/ghpvc/?username=lzr52o&color=0e75b6&style=flat)
+![模块](https://img.shields.io/badge/模块-306-blue) ![Surge](https://img.shields.io/badge/Surge-模块合集-orange) ![更新](https://img.shields.io/badge/更新-2026--11--23-green) ![访问量](https://komarev.com/ghpvc/?username=lzr52o&color=0e75b6&style=flat)
 
 点击模块名即可打开订阅链接，点击分类可展开查看
 
@@ -38,7 +38,7 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/Line%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">Line去广告</a></td><td>移除Line各类广告</td><td>jkgtw</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/bilibili-ads.sgmodule">哔哩哔哩广告净化[墨鱼版]</a></td><td>B站去广告净化，V2.0.138（2025-07-18）</td><td>@ddgksf2013</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/startup-ads.sgmodule">墨鱼去开屏V2.0</a></td><td>400余应用去开屏广告，v2.0.648（2026-08-29）</td><td>@ddgksf2013</td></tr>
-<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/weibo-enhanced.sgmodule">微博净化[墨鱼版]</a></td><td>微博去广告净化，V0.1.53（2026-10-19）</td><td>@ddgksf2013</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/weibo-enhanced.sgmodule">微博净化[墨鱼版]</a></td><td>微博去广告净化，V0.1.60，新增去除详情页横幅和视频关联推广</td><td>@ddgksf2013</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E4%B8%80%E5%88%BB%E7%9B%B8%E5%86%8C%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">一刻相册去广告</a></td><td>移除开屏广告、横幅广告和弹窗推广。</td><td>可莉🅥</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/tieba-ads.sgmodule">贴吧去广告</a></td><td>开屏广告；推荐和吧内帖子列表的直播及广告；详情页直播/关联商品/广告；看图模式广告</td><td>app2smile</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/12306%E5%8E%BB%E5%B9%BF%E5%91%8A.sgmodule">12306去广告</a></td><td>过滤12306应用内广告及开屏广告</td><td>RuCu6</td></tr>
@@ -239,7 +239,7 @@
 </details>
 
 <details>
-<summary>🔓 解锁（5 个）</summary>
+<summary>🔓 解锁（6 个）</summary>
 
 <table width="100%">
 <thead><tr><th>模块</th><th>说明</th><th>作者</th></tr></thead>
@@ -249,6 +249,7 @@
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/unlock-collection.sgmodule">解锁合集</a></td><td>24 个脚本合集：去广告、解锁会员、历史价格、Netflix 评分；Netflix 评分需 IMDb API key（BoxJs 填 ImdbApikeyCacheKey）</td><td>合集（NobyDa、yichahucha、Choler、Alex0510 等）</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/TikTok%E5%A4%9A%E5%9C%B0%E5%8C%BA%E8%A7%A3%E9%94%81.sgmodule">TikTok解锁</a></td><td>移除TikTok视频水印并自定义解锁地区，需要配置此插件至对应地区的节点。</td><td>Keywos</td></tr>
 <tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/%E5%BE%AE%E4%BF%A1%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5%E8%A7%A3%E9%94%81.sgmodule">微信外部链接解锁</a></td><td>解锁微信外部链接访问限制，跳过中间界面。支付宝链接、被封禁链接进行通知弹窗跳转，在微信中用快照显示被封禁的链接（可选），在微信中进行强制重定向（可选），群聊及扫码均可使用，可选项可在脚本的2~3行更改，也可在BoxJs中更改。</td><td>zZPiglet</td></tr>
+<tr><td><a href="https://raw.githubusercontent.com/lzr52o/Surge/master/modules/revenuecat-markbuy.sgmodule">MarkBuy Pro</a></td><td>RevenueCat 多合一解锁，含 MarkBuy premium，原脚本 2024-07-08</td><td>@ddgksf2013</td></tr>
 </tbody>
 </table>
 
