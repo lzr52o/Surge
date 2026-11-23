@@ -15,6 +15,40 @@ Reklam Engelleme · Temizlik · Kilit Açma
 Bir modül adına tıklayarak abonelik bağlantısını açın; bir kategoriye tıklayarak genişletin
 
 </div>
+
+## 📖 Kullanım Kılavuzu
+
+Bu depo, reklam engelleme, kilit açma, iyileştirme, günlük check-in, çeviri, araçlar, diğer ve resmî modüller gibi kategorilere ayrılmış bir Surge modül koleksiyonudur. Bir modülün adına dokunarak abone olabilirsiniz. Kurup düğmesini açtıktan sonra modül, ilgili uygulamada açıklamasında yazdığı gibi çalışır.
+
+### Gerekenler
+
+- Surge yüklü bir iPhone, iPad veya Mac.
+- GitHub bağlantılarına erişebilen bir ağ. Modül dosyalarının tamamı GitHub'da barındırılır; abonelik, modülü buradan çeker.
+
+### Bir Modüle Abone Olma
+
+1. Aşağıdaki modül listesinden istediğiniz modülü bulun ve adına dokunarak abonelik bağlantısını açın.
+2. Bağlantı Surge içinde açılır. Onaylamak için "Yükle"ye dokunun.
+3. Surge ana ekranına dönün, alttaki "Modül"e dokunun, az önce yüklediğiniz modülü bulun ve düğmesini açın.
+4. İlgili uygulamayı açıp deneyin. Çalışıyorsa kurulum tamamdır.
+
+Modül Raw bağlantısının biçimi için sayfanın sonundaki "Nasıl Kullanılır" bölümüne bakın.
+
+### Koleksiyonun Tamamına Abone Olma
+
+Tüm modüllere tek seferde abone olan bir bağlantı yoktur. Modüller tek tek abone olunur: yalnızca istediklerinizi yükleyin. Çok fazla modül yüklemek birbirleriyle çakışmalarına yol açabilir.
+
+### Modülleri Güncelleme
+
+Surge ana ekranını açın, alttaki "Modül"e dokunun ve sağ üstteki güncelleme düğmesine dokunun. Surge her modülün en son sürümünü çeker. Modüller yazarları tarafından bakımı yapılır; yeni sürümü kullanmak için yazarın güncellemesinden sonra aboneliğinizi güncellemeniz gerekir.
+
+### Sık Sorulan Sorular
+
+- **Modül adına dokununca hiçbir şey olmuyor?** Bağlantıyı Safari'de açıp tekrar deneyin. Modül bağlantısını kopyalayıp Surge'daki "Modül" sayfasında "+" → "URL'den İndir" seçeneğiyle yapıştırarak da yükleyebilirsiniz.
+- **Modülü kurdum ama etkisi yok?** Önce modül düğmesinin açık olduğunu kontrol edin, ardından Surge'u yeniden başlatın. Bazı modüllerin çalışması için MITM'in etkinleştirilmesi ve sertifikanın güvenilir olarak işaretlenmesi gerekir.
+- **Modül aniden çalışmayı bıraktı?** Önce güncelleyin. Hâlâ çalışmıyorsa modül uygulamanın yeni sürümüne yetişememiş demektir. Yazarın güncellemesini bekleyin veya benzer bir modüle geçin.
+- **Official klasöründe ne var?** Surge'un kendi yayımladığı resmî modüllerdir. modules klasöründeki üçüncü taraf modüllerle aynı şekilde kullanılır.
+
 ## ⚠️ Kullanım Bildirimi
 
 Bu depo yalnızca kişisel öğrenim ve abonelik amaçlıdır. **Yeniden yayınlama, taşıma, yeniden dağıtım ve ticari kullanım yasaktır.** Ayrıntılar için [LICENSE](./LICENSE) dosyasına bakın.

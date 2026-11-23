@@ -15,6 +15,40 @@ Ad Blocking · Cleanup · Unlock
 Click a module name to open its subscription link; click a category to expand it
 
 </div>
+
+## 📖 Usage Guide
+
+This repository is a collection of Surge modules, grouped into categories such as ad blocking, unlocking, enhancements, check-in, translation, tools, others, and official modules. Tap a module's name to subscribe to it. Once installed and switched on, the module does what its description says in the matching app.
+
+### What You Need
+
+- An iPhone, iPad, or Mac with Surge installed.
+- A network connection that can reach GitHub links. All module files are hosted on GitHub, and subscribing pulls the module from there.
+
+### How to Subscribe to a Module
+
+1. Find the module you want in the list below and tap its name to open the subscription link.
+2. The link opens in Surge. Tap "Install" to confirm.
+3. Go back to the Surge home screen, tap "Module" at the bottom, find the module you just installed, and turn its switch on.
+4. Open the matching app and try it. If it works, the module is set up.
+
+See the "How to Use" section at the end of this page for the format of a module's Raw link.
+
+### How to Subscribe to the Whole Collection
+
+There is no single link that subscribes to every module at once. Modules are subscribed one by one: install only the ones you want. Installing too many can cause them to interfere with each other.
+
+### How to Update Modules
+
+Open the Surge home screen, tap "Module" at the bottom, then tap the update button in the top-right corner. Surge pulls the latest version of each module. Modules are maintained by their authors, so you only get a new version after the author updates it and you update your subscription.
+
+### FAQ
+
+- **Tapping a module name does nothing?** Open the link in Safari and try again. You can also copy the module link, then go to the "Module" page in Surge, tap "+", choose "Download from URL", and paste the link to install it.
+- **Installed a module but nothing changed?** Check that the module's switch is on, then restart Surge. Some modules need MITM enabled and the certificate trusted to work.
+- **A module suddenly stopped working?** Update it first. If it still does not work, the module has likely fallen behind the app's latest version. Wait for the author to update it, or switch to a similar module.
+- **What is in the Official folder?** Those are modules published by Surge itself. They are used the same way as the third-party modules in the modules folder.
+
 ## ⚠️ Usage Notice
 
 This repository is for personal study and subscription use only. **Reproduction, reposting, redistribution, and commercial use are prohibited.** See [LICENSE](./LICENSE).
