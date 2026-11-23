@@ -4,7 +4,7 @@
 #!category=Unlock
 
 [Script]
-revenuecat=type=http-response,pattern=^https:\/\/api\.(revenuecat|rc-backup)\.com\/.+\/(receipts$|subscribers\/[^/]+$),requires-body=true,script-path=https://raw.githubusercontent.com/lzr52o/Collections/master/revenuecat.vip.js,script-update-interval=0
+revenuecat=type=http-response,pattern=^https:\/\/api\.(revenuecat|rc-backup)\.com\/.+\/(receipts$|subscribers\/[^/]+$),requires-body=true,script-path=https://raw.githubusercontent.com/lzr52o/Collections/master/scripts/revenuecat.vip.js,script-update-interval=0
 revenuecat_header=type=http-request,pattern=^https:\/\/api\.(revenuecat|rc-backup)\.com\/.+\/(receipts|subscribers),script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/deleteHeader.js,script-update-interval=0
 
 [MITM]
