@@ -44,7 +44,7 @@ This repository is for personal study and subscription use only. **Reproduction,
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" width="160" height="140" alt="Random anime image" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Daily sentence" /><img src="https://www.dmoe.cc/random.php?v=2" width="160" height="140" alt="Random anime image" />
+<img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Daily sentence" />
 
 </div>
 

@@ -44,7 +44,7 @@ Bu depo yalnızca kişisel öğrenim ve abonelik amaçlıdır. **Yeniden yayınl
 
 <div align="center">
 
-<img src="https://www.dmoe.cc/random.php" width="160" height="140" alt="Rastgele anime görüntüsü" /><img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Günün sözü" /><img src="https://www.dmoe.cc/random.php?v=2" width="160" height="140" alt="Rastgele anime görüntüsü" />
+<img src="https://daily-sentence.lzr52o.workers.dev/sentence" width="440" height="140" alt="Günün sözü" />
 
 </div>
 
