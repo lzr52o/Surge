@@ -1,42 +1,40 @@
 # Apple Intelligence 规则（38 条，截图 Apple 域名）
-# 来源：用户 Stash 截图 Apple 规则去重
 # 更新：2026-11-27
-# 适用：Surge（订阅规则集时策略选美国节点，勿用香港节点）
-DOMAIN-SUFFIX,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,siri.apple.com
-DOMAIN-SUFFIX,api-siri-prod.apple.com
-DOMAIN-SUFFIX,seed-siri-apple-com.v.aaplimg.com
-DOMAIN-SUFFIX,nlp.apple.com
-DOMAIN-SUFFIX,prod.dss.apple.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,apple-native-relay.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,apple-relay.akamaized.net
-DOMAIN-SUFFIX,mask.icloud.com
-DOMAIN-SUFFIX,mask-h2.icloud.com
-DOMAIN-SUFFIX,mask-api.icloud.com
-DOMAIN-SUFFIX,mask-boot.icloud.com
-DOMAIN-SUFFIX,mask-canary.icloud.com
-DOMAIN-SUFFIX,mask.apple-dns.net
-DOMAIN-SUFFIX,mask-t.apple-dns.net
-DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
-DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
-DOMAIN-SUFFIX,gateway.icloud.com
-DOMAIN-SUFFIX,probe.icloud.com
-DOMAIN-SUFFIX,api.apple-cloudkit.com
-DOMAIN-SUFFIX,wps.apple.com
-DOMAIN-SUFFIX,siri-search.apple.com
-DOMAIN-SUFFIX,assistant.apple.com
-DOMAIN-SUFFIX,assistant-api.apple.com
-DOMAIN-SUFFIX,gdmf.apple.com
-DOMAIN-SUFFIX,gdmf-ados.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,seed.siri.apple.com
-DOMAIN,apple-relay.mask.apple-dns.net
-DOMAIN,metrics.icloud.com
-DOMAIN-KEYWORD,siri
-DOMAIN-KEYWORD,guzzoni
-DOMAIN-KEYWORD,smoot
-DOMAIN-KEYWORD,assistant
+DOMAIN-SUFFIX,guzzoni.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,smoot.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,siri.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,api-siri-prod.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,seed-siri-apple-com.v.aaplimg.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,nlp.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,prod.dss.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,apple-relay.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,apple-native-relay.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,apple-relay.akamaized.net,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-h2.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-api.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-boot.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-canary.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask.apple-dns.net,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-t.apple-dns.net,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net,美国节点 // Siri AI
+DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net,美国节点 // Siri AI
+DOMAIN-SUFFIX,gateway.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,probe.icloud.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,api.apple-cloudkit.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,wps.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,siri-search.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,assistant.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,assistant-api.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,gdmf.apple.com,美国节点 // Siri AI
+DOMAIN-SUFFIX,gdmf-ados.apple.com,美国节点 // Siri AI
+DOMAIN,gspe1-ssl.ls.apple.com,美国节点 // Siri AI
+DOMAIN,seed.siri.apple.com,美国节点 // Siri AI
+DOMAIN,apple-relay.mask.apple-dns.net,美国节点 // Siri AI
+DOMAIN,metrics.icloud.com,美国节点 // Siri AI
+DOMAIN-KEYWORD,siri,美国节点 // Siri AI
+DOMAIN-KEYWORD,guzzoni,美国节点 // Siri AI
+DOMAIN-KEYWORD,smoot,美国节点 // Siri AI
+DOMAIN-KEYWORD,assistant,美国节点 // Siri AI
