@@ -1,5 +1,5 @@
-# Apple Intelligence / Apple 服务规则
-# 来源：用户 Stash 规则截图整理，补齐视频 8 条中截图未见的 2 条
+# Apple Intelligence 规则（38 条，截图 Apple 域名）
+# 来源：用户 Stash 截图 Apple 规则去重
 # 更新：2026-11-27
 # 适用：Surge（订阅规则集时策略选美国节点，勿用香港节点）
 DOMAIN-SUFFIX,guzzoni.apple.com
@@ -32,8 +32,6 @@ DOMAIN-SUFFIX,assistant.apple.com
 DOMAIN-SUFFIX,assistant-api.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gdmf-ados.apple.com
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,apple-relay.mask.apple-dns.net
