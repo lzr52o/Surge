@@ -1,0 +1,44 @@
+# Apple Intelligence / Apple 服务规则
+# 来源：用户 Stash 规则截图整理，补齐视频 8 条中截图未见的 2 条
+# 更新：2026-11-27
+# 适用：Surge（订阅规则集时策略选美国节点，勿用香港节点）
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,api-siri-prod.apple.com
+DOMAIN-SUFFIX,seed-siri-apple-com.v.aaplimg.com
+DOMAIN-SUFFIX,nlp.apple.com
+DOMAIN-SUFFIX,prod.dss.apple.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-native-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-boot.icloud.com
+DOMAIN-SUFFIX,mask-canary.icloud.com
+DOMAIN-SUFFIX,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-t.apple-dns.net
+DOMAIN-SUFFIX,mask-api.fe.apple-dns.net
+DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,probe.icloud.com
+DOMAIN-SUFFIX,api.apple-cloudkit.com
+DOMAIN-SUFFIX,wps.apple.com
+DOMAIN-SUFFIX,siri-search.apple.com
+DOMAIN-SUFFIX,assistant.apple.com
+DOMAIN-SUFFIX,assistant-api.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gdmf-ados.apple.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,metrics.icloud.com
+DOMAIN-KEYWORD,siri
+DOMAIN-KEYWORD,guzzoni
+DOMAIN-KEYWORD,smoot
+DOMAIN-KEYWORD,assistant
